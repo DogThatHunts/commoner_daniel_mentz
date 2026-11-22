@@ -17,4 +17,6 @@ NN.slug/
 | 02 | [National Status, Passports, and the Right to Travel](02.national_status_and_right_to_travel/summary.md) | Draft, awaiting review |
 | 03 | [The Commoner's Response: Building Freedom from the Ground Up](03.building_freedom_from_the_ground_up/summary.md) | Draft, awaiting review |
 
+See [POLICIES.md](POLICIES.md) for how this project is run.
+
 Summaries report the presenter's claims and are not legal advice; see each summary's reader's note.

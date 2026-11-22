@@ -7,6 +7,7 @@ Running log of progress in this project. Newest entries on top.
 **State: all three summaries drafted and pushed. 01 is approved. 02 and 03 await review.**
 
 ### What exists
+- **[POLICIES.md](POLICIES.md)** holds the standing rules for this project. Read it first each session, and add to it when the user states a new policy.
 - Repo: https://github.com/DogThatHunts/commoner_daniel_mentz (**private**), branch `main`, one commit (`001d75a`). It is a nested git repo rooted at this folder, `law_sovereignty/daniel_mentz/01.DanielMentzSummariesFromCommoner/`. The parent `law_sovereignty` repo does not track `daniel_mentz/` (it shows as untracked there).
 - `index.html` is a landing page with a card per interview. `README.md` is the text index with a status column.
 - Each interview folder contains `interview.md` (queue-sheet row: ID, YouTube URL, Column D title, dates, transcript Drive link), `summary.md` and `summary.html`, `slides/` (JPEGs named `slide-NN_HH-MM-SS.jpg` plus `slides-index.md`), and `collateral/` (`transcript.md` verbatim, `video-metadata.json`).
@@ -21,6 +22,7 @@ Running log of progress in this project. Newest entries on top.
 - The `interview.md` files for 01 and 03 were swapped this session (they had the wrong videos). They are correct now.
 
 ### Decisions made
+- **Policy (user-set, 2026-11-22):** index tiles use each interview's splash/title screen. See POLICIES.md, P1. Index tiles now follow it: 01 and 03 use their opening title slide (`slide-01`), and 02 uses the YouTube thumbnail saved at `02.../collateral/thumbnail.jpg`, since its video has no title slide. Before this, 01's tile was an "About me" slide, 02's was the traffic-stop script and 03's was the Juries title card, all wrong under the policy.
 - The summaries are more detailed than the normal workflow. They have timestamped sections and slides embedded inline. Each ends with a **reader's note** and a **"Claims worth checking"** section. The speakers' claims are attributed to them and not verified. This was added because the user plans to share publicly.
 - Slides: scene-change detection with ffmpeg, then manual selection from contact sheets. In gallery-view calls (02, 03) only the screen-shared segments are slides. Raw frames and the downloaded video were kept out of the repo (they lived in the scratchpad).
 - Audience members appear by first name only. Names mangled by the auto-transcripts were corrected in the summaries and left as-is in `transcript.md`.
