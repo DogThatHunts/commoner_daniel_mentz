@@ -9,6 +9,8 @@ Standing rules for this project. Read at the start of each session. Add a new nu
 - If it has none (for example a gallery-view call), use the video's official YouTube thumbnail, saved at `NN.slug/collateral/thumbnail.jpg`.
 - Do not use a mid-talk content slide as the tile.
 
+**P10. Index order is oldest to newest, top to bottom** (user-set, 2026-11-22). Tiles on `index.html` (and rows in `README.md`) run from the earliest to the latest interview, which is also the `NN.` folder order. New interviews are appended at the bottom.
+
 ## Content
 
 **P2. Summaries are detailed and slide-illustrated** (user-set, 2026-11-22). Each interview gets a `summary.md` more detailed than the normal workflow summary, with its slides embedded inline at the point they appear, and the full transcript kept in `collateral/`.
@@ -29,4 +31,4 @@ Standing rules for this project. Read at the start of each session. Add a new nu
 
 ## Publishing
 
-**P9. The repo is private until the user says otherwise** (user-set, 2026-11-22: "I will want to share results publicly later"). Do not change visibility without being asked. The repo scope is this folder only.
+**P9. Repo visibility** (user-set). Private until 2026-11-22, when the user made it **public** and enabled GitHub Pages. Do not change visibility without being asked. The repo scope is this folder only.
