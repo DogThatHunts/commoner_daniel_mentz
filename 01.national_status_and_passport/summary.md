@@ -10,7 +10,7 @@
 | **Queue row ID** | `07213875-e6d8-4d00-b4ad-6c685bd2f24c` |
 | **Collateral** | [Full transcript](collateral/transcript.md) · [video metadata](collateral/video-metadata.json) · [slide index](slides/) |
 
-> **Reader's note.** This is a summary of what Mentz *says and shows*. His legal claims are reported as his claims, not verified here. Section 14 lists points a reader would want to check against primary sources before relying on them. Neither the presenter nor the host is giving legal advice, and the deck's own disclaimer says so (slide 2).
+> **Reader's note.** This is a summary of what Mentz *says and shows*. His legal claims are reported as his claims, not verified here. The closing "Claims worth checking" section lists points a reader would want to check against primary sources before relying on them. Neither the presenter nor the host is giving legal advice, and the deck's own disclaimer says so (slide 2).
 
 Each slide image is captioned with the time it first appears in the video. Timestamps are `mm:ss` or `h:mm:ss`; the YouTube link above can be opened at any of them by adding `&t=<seconds>`.
 

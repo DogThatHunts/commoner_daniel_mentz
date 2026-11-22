@@ -11,7 +11,7 @@
 | **Queue row ID** | `f6a743f9-8750-46a0-a76f-16db47bda42a` |
 | **Collateral** | [Full transcript](collateral/transcript.md) · [video metadata](collateral/video-metadata.json) · [slide index](slides/slides-index.md) |
 
-> **Reader's note.** This summarises what is said on the call. The legal claims are the speakers' own and were not verified here. They are mostly practical claims about traffic stops, court procedure and financial instruments. Section 11 lists points to check before relying on any of them. Nothing here is legal advice.
+> **Reader's note.** This summarises what is said on the call. The legal claims are the speakers' own and were not verified here. They are mostly practical claims about traffic stops, court procedure and financial instruments. The closing "Claims worth checking" section lists points to check before relying on any of them. Nothing here is legal advice.
 
 ---
 
@@ -48,7 +48,7 @@ Throughout, Mentz stresses there is "no silver bullet," that outcomes vary by of
 **Two aspects of getting a citation dismissed.** He is recording an extra module for the National Status & Passport Pathway on the steps. Key points:
 - Traffic courts are "entry-level bulldogs." Some of the time the person on the bench is a **commissioner** rather than a judge, with no oath to uphold the Constitution, "just there to administer the commercial aspect of this transaction."
 - "Everything has been turned commercial since 1938, technically since 1933." He cites *Erie Railroad v. Tompkins* (1938) as collapsing all forms of law in the courts, so "all the layers of law still exist within every single court" and it is up to each person "to bring back the layer that you want to have recognized."
-- He cites Black's Law Dictionary (fourth edition onward) for "custom supersedes common law," so courtroom customs harden into law, and bringing common law in "is not impossible… but you really have to know what you're doing."
+- He cites [Black's Law Dictionary](https://thelawdictionary.org/) (fourth edition onward) for "custom supersedes common law," so courtroom customs harden into law, and bringing common law in "is not impossible… but you really have to know what you're doing."
 
 **The ticket as negotiable instrument.** Because the citation is "a commercial instrument… a negotiable instrument":
 - some jurisdictions need your signature, others treat the licence or registration as the "jurisdictional nexus,"
@@ -62,7 +62,7 @@ Throughout, Mentz stresses there is "no silver bullet," that outcomes vary by of
 ## 4. License versus liberty [17:46–22:00]
 
 ![Black's Law Dictionary, 6th ed.: liberty/license entries](slides/slide-01_00-20-50.jpg)
-*Slide 1 [20:50]: Black's Law Dictionary, 6th edition (PDF), the entries for liberty and license, shared by Mentz.*
+*Slide 1 [20:50]: [Black's Law Dictionary](https://thelawdictionary.org/), 6th edition (PDF), the entries for liberty and license, shared by Mentz.*
 
 ![Highlighted definition of liberty](slides/slide-02_00-21-33.jpg)
 *Slide 2 [21:33]: The "Liberty" definition highlighted ("freedom from restraint…").*
@@ -73,7 +73,7 @@ Throughout, Mentz stresses there is "no silver bullet," that outcomes vary by of
 - A **license**, per Black's, is "the ability to do something that would otherwise be illegal."
 - The Constitution "doesn't say anything about needing a license or permits." Almost every state supreme court has issued right-to-travel decisions. Pre-Civil War, "if you were a private individual, a private state citizen, then there was no license… you didn't have to ask permission."
 - After the Civil War, and especially in the 1930s, everything was turned into "a privilege rather than a right… and trick people into voluntarily applying for the benefits of a privilege rather than standing in the right that they already have."
-- **Constitution vs. natural rights.** "The Constitution doesn't give you any rights." The Bill of Rights "enshrined that which you already have." "Constitutional rights," in his view, means 14th-Amendment civil rights "given to you by a government and can be taken away."
+- **Constitution vs. natural rights.** "The Constitution doesn't give you any rights." [The Bill of Rights](https://www.archives.gov/founding-docs/bill-of-rights-transcript) "enshrined that which you already have." "Constitutional rights," in his view, means 14th-Amendment civil rights "given to you by a government and can be taken away."
 - A legal-thesaurus synonym for **liberty is "locomotion,"** "the right to move yourself and your personal property from A to B without encumbrance."
 - Griess notes that in Black's sixth edition the entry for *liberty* is followed immediately by *license*. He frames the Commoner approach as informing people so they can make their own risk/reward choices.
 
@@ -161,7 +161,7 @@ Mentz says this "usually ends right here," while acknowledging "bad apples" who 
 
 **Arlen (Australia): why do police ask you to step out?** [1:18:34]. "Now you have abandoned your property… easier to seize it." One untested idea he has heard: ask "is this a request or an order?" His firm advice: if it escalates, "comply and say, *I will now comply with your demands because I'm in fear of my life. I am under duress.*" "**Do not argue with the cops. Do not try to educate them on the law.** … that makes you belligerent and aggressive and you will be treated as such." He recalls someone who was shot for arguing and says the paper can be handled "in the comfort and safety of your home," "even if you have to use equity."
 
-**Irv (Delaware) [1:21:00–1:33:00].** Three years earlier he put his window down two inches and said "I plead the Fifth and Sixth Amendment, I want to speak to your supervisor." The officer shouted, broke the window, pointed a taser, and punched him twice. Charges were resisting arrest, failing to identify, and using an electronic device. The commissioner entered a not-guilty plea on his behalf. At the latest hearing "denied, denied, denied" on all motions.
+**Irv (Delaware) [1:21:00–1:33:00].** Three years earlier he put his window down two inches and said "I plead the Fifth and [Sixth Amendment](https://constitution.congress.gov/constitution/amendment-6/), I want to speak to your supervisor." The officer shouted, broke the window, pointed a taser, and punched him twice. Charges were resisting arrest, failing to identify, and using an electronic device. The commissioner entered a not-guilty plea on his behalf. At the latest hearing "denied, denied, denied" on all motions.
 - Mentz: "you're still arguing. If you put in motions, you're arguing. Equity doesn't argue. We settle and close the books." He says he has seen members facing "10-year felony charges" resolved by equity. He suggests Irv would need to "back out" of positions already taken, which the equity course covers.
 - Griess adds that the lesson for him was to look at the system "purely from a financial point of view" and that the greatest benefit he got from the equity course was peace.
 
@@ -195,4 +195,4 @@ These are observations for a public reader, not rebuttals.
 4. **"Do not detain" code and the "administrative file."** The speaker acknowledges "we obviously don't have access to these records." Evidence offered is a sheriff on video (not shown in this recording) and member anecdotes.
 5. **Certified mail as "received and filed."** A claim about how filings work. Court filing rules vary by court and by what is mailed where, and Faye's experience (returned mail) was the opposite.
 6. **Dismissals "poof."** The statement that discharging the "financial instrument" removes the charge and the public record is a claim about outcomes. The talk includes no data on how often it succeeds, and Irv's account in the same call shows a failure of a different approach.
-7. **Safety.** Mentz's own advice (stay calm, don't argue, comply when threatened) is cautious. The other roadside statements on the call (invoking the Fifth and Sixth Amendments, refusing to exit) are shown, via Irv's account, to have led to injury and arrest.
+7. **Safety.** Mentz's own advice (stay calm, don't argue, comply when threatened) is cautious. The other roadside statements on the call (invoking the [Fifth](https://constitution.congress.gov/constitution/amendment-5/) and [Sixth](https://constitution.congress.gov/constitution/amendment-6/) Amendments, refusing to exit) are shown, via Irv's account, to have led to injury and arrest.

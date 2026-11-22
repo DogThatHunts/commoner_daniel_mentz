@@ -12,7 +12,7 @@
 | **Queue row ID** | `3574e0d1-b72a-4dfc-92b5-69cb3590491a` |
 | **Collateral** | [Full transcript](collateral/transcript.md) · [video metadata](collateral/video-metadata.json) · [slide index](slides/slides-index.md) |
 
-> **Reader's note.** This summarises what was said and shown. The historical and legal claims are the speakers' own and were not verified here. Section 11 lists points to check. Mentz and Griess both teach or promote paid programs (the Fellowship courses, the Exit & Build event), and several segments describe them. Nothing here is legal advice.
+> **Reader's note.** This summarises what was said and shown. The historical and legal claims are the speakers' own and were not verified here. The closing "Claims worth checking" section lists points to check. Mentz and Griess both teach or promote paid programs (the Fellowship courses, the Exit & Build event), and several segments describe them. Nothing here is legal advice.
 
 ---
 
@@ -41,7 +41,7 @@ After three hours on "fractures" in American society, the segment turns to **wha
 
 - He had not prepared a presentation ("I always have slides") and wants an open conversation. He introduces himself as National Status & Passport director at Sacred Honor and lists the four pathways: **status correction**, **equity jurisprudence** ("the ancient law that overrules all other laws"), the **trifecta** (trust, private church, PMA) and **land patents**. "Once you combine them… you're the most free American you can be in today's America."
 - **The thesis of hope.** "The original organic constitutional republic… still exists." After the Civil War "they overlaid this fictional corporate matrix" (D.C. incorporated in 1871, then the states as sub-corporations), but "Americans can still claim all the rights… it provided."
-- He claims an **original 13th Amendment** ("properly ratified in the early 1800s") barred lawyers and title-holders from holding office. "99% of [Congress]" are attorneys. He cites false ratifications and blackmail "during and after the Civil War."
+- He claims an **original [13th Amendment](https://constitution.congress.gov/constitution/amendment-13/)** ("properly ratified in the early 1800s") barred lawyers and title-holders from holding office. "99% of [Congress]" are attorneys. He cites false ratifications and blackmail "during and after the Civil War."
 - **A mainstream source:** Eric Foner's *The Second Founding*, recommended by his colleague Troy (the National Status liaison). Foner is, he says, "a pretty mainstream historian," and the book says "there was the pre-Civil War and then there was the post-Civil War America… completely separate systems."
 
 ![Wikipedia entry for The Second Founding](slides/slide-03_00-14-01.jpg)
@@ -76,7 +76,7 @@ Clayton (81, California; had vocal-cord cancer, speaks with difficulty) offers a
 **Mentz's reply [43:41–47:51].**
 - A third party "is never going to materialize" because "as long as the state or they control the voting machines they will not let anyone… get to power." Voting "has been lobotomized"; the system is "political theater… a Masonic play."
 - He is disillusioned with Trump ("turned out to be exactly who many of the anarchists and libertarians told us he would be").
-- **Etymology.** "Govern" from Latin *gubernare* means "to rule or control," and "ment" from *mente* means "mind," so "government literally means mind control." Hence **self-governance, not self-government.** (See Section 11.)
+- **Etymology.** "Govern" from Latin *gubernare* means "to rule or control," and "ment" from *mente* means "mind," so "government literally means mind control." Hence **self-governance, not self-government.** (See the closing "Claims worth checking" section.)
 - His agreement with Clayton: return to "our local circle of influence." His slogan: **"No voting, no violence, no apathy: exit and build."**
 
 ---
@@ -170,7 +170,7 @@ Griess plays a segment of his own special presentation, *Juries: The Missing Fou
 ## 9. Audience contributions [1:11:30–1:41:00]
 
 **Sarah (upstate New York) [1:12:00–1:20:00].**
-- A Sacred Honor national-status course member who "changed [her] status three times." She recaps the 14th Amendment/federal-citizenship argument ("slaves to the corporation… started in 1871"; "28 USC 3002") and says local and state governments "are all their own corporations… you can find them on Dun & Bradstreet."
+- A Sacred Honor national-status course member who "changed [her] status three times." She recaps the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/)/federal-citizenship argument ("slaves to the corporation… started in 1871"; "[28 USC 3002](https://www.law.cornell.edu/uscode/text/28/3002)") and says local and state governments "are all their own corporations… you can find them on Dun & Bradstreet."
 - Mentz thanks her for the recap and says the status process currently applies to Americans, but "there has to be a way for us to do status correction in other [Western] countries" and they are "looking for volunteers" in Canada. He observes that the exit-and-build community took "years" to accept lawful remedies: they were "buying land in the country somewhere but they were still U.S. citizens still paying income tax and property tax… so how free are you really?" People "who don't want to look at the law stuff" must face it: "it is part of self-governance."
 - Griess adds that exit-and-build does not require relocating: one can "construct this security fence around your private world right where you are."
 
@@ -197,10 +197,11 @@ Griess thanks everyone "for hanging out on your Independence Day" and defines co
 
 These are observations for a public reader, not rebuttals.
 
-1. **"Original 13th Amendment" (Titles of Nobility Amendment).** The 1810 proposed amendment would have stripped citizenship from those accepting foreign titles. It is widely held *not* to have been ratified, and nothing in its text refers to attorneys. The claim in the talk (properly ratified, bars lawyers from office) is contested and should be checked against primary sources.
+1. **"Original [13th Amendment](https://constitution.congress.gov/constitution/amendment-13/)" (Titles of Nobility Amendment).** The 1810 proposed amendment would have stripped citizenship from those accepting foreign titles. It is widely held *not* to have been ratified, and nothing in its text refers to attorneys. The claim in the talk (properly ratified, bars lawyers from office) is contested and should be checked against primary sources.
 2. **Etymology of "government."** *Gubernare* ("to steer, to govern") comes from Greek *kybernan*, and *-ment* is a noun suffix (from Latin *-mentum*, "result of"), not *mens* ("mind"). The "mind control" derivation is a popular claim, not the standard etymology.
-3. **Legal statements by the host and guests** (D.C. incorporated in 1871, "28 USC 3002," the 14th Amendment as federal-citizenship "slavery," local governments as corporations on Dun & Bradstreet) are repeated from interview 01. See that summary's section 14 for notes. For example, § 3002's definitions apply "as used in this chapter."
-4. **Hummel's book.** Clayton's wording for the title is approximate. The author's book is generally cited as *Emancipating Slaves, Enslaving Free Men*.
-5. **Voting machines and third parties.** Mentz's claim that a third party "is never going to materialize" is an opinion about election integrity that the call does not support with evidence. The NDAA, Palantir and "IDF" statements by Clayton are also assertions without sources on the call.
-6. **Outcome claims.** Counties "flipped into common law," sheriffs on board, notices of liability producing resignations, and the status affidavit stopping state income tax "without many issues" are anecdotal and uncited.
-7. **Promotion.** Exit & Build 6 (5–8 November 2026, Texas), the Fellowship's courses and Griess's other programs are mentioned throughout. The video description links to the paid National Status & Passport course page, and Mentz appears as a featured guest of the event.
+3. **Legal statements by the host and guests** (D.C. incorporated in 1871, "[28 USC 3002](https://www.law.cornell.edu/uscode/text/28/3002)," the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/) as federal-citizenship "slavery," local governments as corporations on Dun & Bradstreet) are repeated from interview 01. See the closing "Claims worth checking" section of that summary for notes. For example, [§ 3002](https://www.law.cornell.edu/uscode/text/28/3002)'s definitions apply "as used in this chapter."
+4. **DD Form 2168.** A guest says this form "corrects your status with the military" and exits the "forever" obligation. The Department of Defense forms index (esd.whs.mil) lists DD 2168 as "Application for Discharge of Member or Survivor of Member of Group Certified to Have Performed Active Duty with the Armed Forces of the U.S." (a form for certain civilian groups), not a general status-correction or separation form. Confirm what the form is for before relying on it.
+5. **Hummel's book.** Clayton's wording for the title is approximate. The author's book is generally cited as *Emancipating Slaves, Enslaving Free Men*.
+6. **Voting machines and third parties.** Mentz's claim that a third party "is never going to materialize" is an opinion about election integrity that the call does not support with evidence. The NDAA, Palantir and "IDF" statements by Clayton are also assertions without sources on the call.
+7. **Outcome claims.** Counties "flipped into common law," sheriffs on board, notices of liability producing resignations, and the status affidavit stopping state income tax "without many issues" are anecdotal and uncited.
+8. **Promotion.** Exit & Build 6 (5–8 November 2026, Texas), the Fellowship's courses and Griess's other programs are mentioned throughout. The video description links to the paid National Status & Passport course page, and Mentz appears as a featured guest of the event.
