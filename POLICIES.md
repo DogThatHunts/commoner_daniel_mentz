@@ -4,10 +4,9 @@ Standing rules for this project. Read at the start of each session. Add a new nu
 
 ## Presentation
 
-**P1. Index tiles use the interview's splash screen** (user-set, 2026-11-22). Each tile on `index.html` shows the interview's own title/splash card.
-- If the video opens with a title slide, use it: copy that slide as the tile image (currently `slide-01` in 01 and 03).
-- If it has none (for example a gallery-view call), use the video's official YouTube thumbnail, saved at `NN.slug/collateral/thumbnail.jpg`.
-- Do not use a mid-talk content slide as the tile.
+**P1. Superseded by P11.** (Originally: tiles use the interview's own splash screen.)
+
+**P11. Index tile graphics come from the Queue sheet's linked graphic** (user-set, 2026-11-22). Each tile on `index.html` uses the graphic linked on that interview's row of the Queue sheet, which is the video's YouTube thumbnail. Save it as `NN.slug/collateral/thumbnail.jpg` (fetch `https://i.ytimg.com/vi_webp/<id>/maxresdefault.webp` and convert to JPEG) and point the tile at it. Use another image only when the user calls out an exception for that interview.
 
 **P10. Index order is oldest to newest, top to bottom** (user-set, 2026-11-22). Tiles on `index.html` (and rows in `README.md`) run from the earliest to the latest interview, which is also the `NN.` folder order. New interviews are appended at the bottom.
 

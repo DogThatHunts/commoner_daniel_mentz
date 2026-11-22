@@ -7,7 +7,7 @@ Running log of progress in this project. Newest entries on top.
 **Update (end of session): repo is now PUBLIC with GitHub Pages enabled.**
 - Index page: **https://dogthathunts.github.io/commoner_daniel_mentz/index.html**
 - Repo: https://github.com/DogThatHunts/commoner_daniel_mentz (public)
-- All three summaries are approved by the user. Policies P1 to P10 are in [POLICIES.md](POLICIES.md); P10 is oldest-to-newest order on the index.
+- All three summaries are approved by the user. Policies P1 to P11 are in [POLICIES.md](POLICIES.md); P10 is oldest-to-newest order on the index.
 - Pages serves `.md` files as `text/markdown`, so links to `transcript.md` and `slides-index.md` may download rather than display in a browser. Consider rendering those as HTML or linking to the github.com view.
 - Public transcripts: the repo includes the verbatim transcripts. The user chose to publish.
 - Remaining plan for next session: link every timestamp to the video (item 0 below). Item 3 below (going public) is done.
@@ -30,7 +30,7 @@ Running log of progress in this project. Newest entries on top.
 - The `interview.md` files for 01 and 03 were swapped this session (they had the wrong videos). They are correct now.
 
 ### Decisions made
-- **Policy (user-set, 2026-11-22):** index tiles use each interview's splash/title screen. See POLICIES.md, P1. Index tiles now follow it: 01 and 03 use their opening title slide (`slide-01`), and 02 uses the YouTube thumbnail saved at `02.../collateral/thumbnail.jpg`, since its video has no title slide. Before this, 01's tile was an "About me" slide, 02's was the traffic-stop script and 03's was the Juries title card, all wrong under the policy.
+- **Policy (user-set, 2026-11-22):** index tiles use the graphic linked on the Queue sheet (the YouTube thumbnail), saved at `NN.slug/collateral/thumbnail.jpg`. See POLICIES.md, P11, which supersedes the earlier splash-screen rule P1. All three tiles now follow it. Before P11, 01's tile was an "About me" slide, 02's was the traffic-stop script and 03's was the Juries title card, all wrong under the policy.
 - The summaries are more detailed than the normal workflow. They have timestamped sections and slides embedded inline. Each ends with a **reader's note** and a **"Claims worth checking"** section. The speakers' claims are attributed to them and not verified. This was added because the user plans to share publicly.
 - Slides: scene-change detection with ffmpeg, then manual selection from contact sheets. In gallery-view calls (02, 03) only the screen-shared segments are slides. Raw frames and the downloaded video were kept out of the repo (they lived in the scratchpad).
 - Audience members appear by first name only. Names mangled by the auto-transcripts were corrected in the summaries and left as-is in `transcript.md`.
