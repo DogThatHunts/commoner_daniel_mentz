@@ -27,7 +27,7 @@ Mentz argues that "citizen of the United States" is a 14th-Amendment, federal-co
 **Host intro (00:00–02:25).** Griess frames the evening as a custom presentation for an audience that already knows the topic area. It covers what changing status from "U.S. citizen" to "national" means, a compare-and-contrast with other processes, material benefits, "a spiritual benefit of just exiting the system," and Q&A.
 
 **Mentz's story (02:35–04:30).**
-- His "big awakening" came in 2020, when he asked how governments could trample a "very clear constitution and bill of rights" and face no repercussion for mask arrests and business shutdowns.
+- His "big awakening" came in 2020, when he asked how governments could trample a "very clear constitution and [bill of rights](https://www.archives.gov/founding-docs/bill-of-rights-transcript)" and face no repercussion for mask arrests and business shutdowns.
 - He came across a Roger Sayles interview, which "gave me a huge chunk of the answer." That opened the "private remedy world" of equity, land patents and trusts.
 - The man who introduced him to Sayles, John Cacero, is on the call and speaks at the end (section 8).
 
@@ -74,13 +74,13 @@ Mentz reads each quotation and draws a conclusion.
 
 | Case (as shown on slide) | Quoted proposition | Mentz's takeaway |
 |---|---|---|
-| *Jones v. Temmer*, 89 F. Supp 1226 (1993) | The Privileges & Immunities Clause "protects only those rights peculiar to being a citizen of the federal government; it does not protect those rights which relate to state citizenship." | Federal citizenship protects very little. |
+| *[Jones v. Temmer](https://law.justia.com/cases/federal/district-courts/FSupp/829/1226/1876934/)*, 829 F. Supp. 1226 (D. Colo. 1993) (the slide prints "89 F. Supp 1226," apparently a typo) | The Privileges & Immunities Clause "protects only those rights peculiar to being a citizen of the federal government; it does not protect those rights which relate to state citizenship." | Federal citizenship protects very little. |
 | *U.S. v. Valentine*, 288 F. Supp. 957 (1968) | "The only absolute and unqualified right of [United States] citizenship is to residence within the territorial boundaries of the United States." | "The only rights U.S. citizens have is to reside." |
-| *Colgate v. Harvey*, 296 U.S. 404 (1935) | The U.S. and each state governments are distinct; "the rights of a citizen under one may be quite different from those which he has under the other." | Two statuses, two sets of rights. |
-| *Madden v. Kentucky*, 309 U.S. 83 (1940) | "…rights of federal citizenship, as distinct from the fundamental or natural rights inherent in state citizenship." | State citizens hold *natural* rights, "the highest law of the universe." |
+| *[Colgate v. Harvey](https://supreme.justia.com/cases/federal/us/296/404/)*, [296 U.S. 404](https://www.law.cornell.edu/supremecourt/text/296/404) (1935) | The U.S. and each state governments are distinct; "the rights of a citizen under one may be quite different from those which he has under the other." | Two statuses, two sets of rights. |
+| *Madden v. Kentucky*, [309 U.S. 83](https://www.law.cornell.edu/supremecourt/text/309/83) (1940) | "…rights of federal citizenship, as distinct from the fundamental or natural rights inherent in state citizenship." | State citizens hold *natural* rights, "the highest law of the universe." |
 
 ![More case quotes](slides/slide-08_00-15-12.jpg)
-*Slide 8 [15:12]: *Kitchens v. Steele*, 112 F. Supp. 383 (1953) ("a citizen of the United States is a [14th Amendment] citizen of the federal government"); *Belmont v. Town of Gulfport*, 122 So. 10 (1929) ("Taxpayers are not state citizens"); *U.S. v. Slater*, 545 F. Supp. 179 (1982) (IRS has authority to determine tax liability "unless the defendant can establish that he is not a citizen of the United States"). The slide notes in red: "a little confusing to say 'prove he is *not* a citizen of the United States' without mentioning state citizenship."*
+*Slide 8 [15:12]: *Kitchens v. Steele*, 112 F. Supp. 383 (1953) ("a citizen of the United States is a [[14th Amendment](https://constitution.congress.gov/constitution/amendment-14/)] citizen of the federal government"); *Belmont v. Town of Gulfport*, 122 So. 10 (1929) ("Taxpayers are not state citizens"); *U.S. v. Slater*, 545 F. Supp. 179 (1982) (IRS has authority to determine tax liability "unless the defendant can establish that he is not a citizen of the United States"). The slide notes in red: "a little confusing to say 'prove he is *not* a citizen of the United States' without mentioning state citizenship."*
 
 **Rhetorical question he poses:** if the Supreme Court has recognised state citizenship at least four times, "why have you never heard about" it in school?
 
@@ -92,28 +92,28 @@ Mentz reads each quotation and draws a conclusion.
 *Slide 9 [16:05]: "The whole Matrix is built on 'dialectics' (opposite definitions)": "You are either free, or you are a slave. There's no in-between." "Slave" is swapped for "bond," root of "bondage."*
 
 - Mentz says this is the one thing to take away: *dialectics runs the entire system.*
-- He moves from the equivocation fallacy to Black's Law Dictionary's "dozens and dozens" of conflicting definitions of *person*.
+- He moves from the equivocation fallacy to [Black's Law Dictionary](https://thelawdictionary.org/)'s "dozens and dozens" of conflicting definitions of *person*.
 
 ![Equivocation](slides/slide-10_00-18-18.jpg)
-*Slide 10 [18:18]: Equivocation: "a fallacy depending on the double meaning of a word; the use of ambiguous expressions especially in order to mislead." "Are you a citizen of the United States? OR Are you a citizen of the United States of America?" "One position is free and the other is federal property of the United States corporation under the 14th Amendment."*
+*Slide 10 [18:18]: Equivocation: "a fallacy depending on the double meaning of a word; the use of ambiguous expressions especially in order to mislead." "Are you a citizen of the United States? OR Are you a citizen of the United States of America?" "One position is free and the other is federal property of the United States corporation under the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/)."*
 
 **Pre-Civil War America, as he describes it [19:10–22:30]:**
-- Founded under common law ("no victim, no crime") and on individual sovereignty as a creation of the Creator. The Bill of Rights *enumerated* rights and did not grant them.
+- Founded under common law ("no victim, no crime") and on individual sovereignty as a creation of the Creator. [The Bill of Rights](https://www.archives.gov/founding-docs/bill-of-rights-transcript) *enumerated* rights and did not grant them.
 - No personal income tax until 1913, apart from Civil War greenbacks and Union Army taxation, and very little taxation overall. Yet there were "cities, roads, infrastructure, public transport, utilities," funded by excise taxes and imports.
 - No licences, permits or certificates to travel or work. Cash could be redeemed in gold or silver at any bank.
 - His rebuttal to "if you don't pay taxes, you shouldn't drive on the roads": how was it all built before 1913?
 
 ![Political status dialectics](slides/slide-11_00-22-30.jpg)
-*Slide 11 [22:30]: "This was the beginning of political status 'dialectics'": before the 14th Amendment one had to be a citizen of a state to be a citizen of the country. Those born in D.C. before the Civil War "couldn't be a citizen of the United States of America because it's not a state." Before the 14th Amendment "there was no federal 'citizen of the United States,'" a status "introduced under the premise to give freed slaves political standing."*
+*Slide 11 [22:30]: "This was the beginning of political status 'dialectics'": before the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/) one had to be a citizen of a state to be a citizen of the country. Those born in D.C. before the Civil War "couldn't be a citizen of the United States of America because it's not a state." Before the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/) "there was no federal 'citizen of the United States,'" a status "introduced under the premise to give freed slaves political standing."*
 
 - Each state had its own birth and naturalisation process. You were a citizen of Texas or Wyoming first, hence of the Union.
-- The 14th Amendment, he says, "was only designed to give freed slaves political standing". He later adds, in Q&A, that its first sentence was added "an hour before midnight" before ratification.
-- **1871 Organic Act.** He says the District of Columbia was formed into a corporation, "but they could only do that after the 14th Amendment because that established corporate federal citizenship."
+- The [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/), he says, "was only designed to give freed slaves political standing". He later adds, in Q&A, that its first sentence was added "an hour before midnight" before ratification.
+- **[Organic Act of 1871](https://www.govinfo.gov/content/pkg/STATUTE-16/pdf/STATUTE-16-Pg419.pdf).** He says the District of Columbia was formed into a corporation, "but they could only do that after the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/) because that established corporate federal citizenship."
 
 ![United States = federal corporation](slides/slide-12_00-25-16.jpg)
-*Slide 12 [25:16]: "'United States' = Federal corporation (District of Columbia)"; "'United States of America' = the Constitutional Union." Shows 28 U.S.C. § 3002 (Cornell LII).*
+*Slide 12 [25:16]: "'United States' = Federal corporation (District of Columbia)"; "'United States of America' = the Constitutional Union." Shows [28 U.S.C. § 3002](https://www.law.cornell.edu/uscode/text/28/3002) (Cornell LII).*
 
-Mentz points to **28 U.S.C. § 3002, subsection (15)(A)**: "United States" "means a federal corporation." Points of emphasis:
+Mentz points to **[28 U.S.C. § 3002](https://www.law.cornell.edu/uscode/text/28/3002), subsection (15)(A)**: "United States" "means a federal corporation." Points of emphasis:
 - Quotation marks in a statutory definition mean "nothing can be added or subtracted." You cannot add "of America" to the term.
 - Therefore "citizen of the United States" is a corporate status. "Whenever you see these words, think federal corporation."
 
@@ -122,7 +122,7 @@ Mentz points to **28 U.S.C. § 3002, subsection (15)(A)**: "United States" "mean
 ## 6. The "national" definition and the escape clause [26:25–33:20]
 
 ![National = state citizen](slides/slide-13_00-26-25.jpg)
-*Slide 13 [26:25]: "'national' = state citizen of the Constitutional Union," with 8 U.S.C. § 1101 on screen.*
+*Slide 13 [26:25]: "'national' = state citizen of the Constitutional Union," with [8 U.S.C. § 1101](https://www.law.cornell.edu/uscode/text/8/1101) on screen.*
 
 ![Certificates of Non-Citizen Nationality, 1](slides/slide-14_00-26-59.jpg)
 *Slide 14 [26:59]: "Certificates of Non-Citizen Nationality." State Department policy page (travel.state.gov): "As defined by the INA, **all U.S. citizens are U.S. nationals**"; applicants may get a passport that would "delineate and certify their status as a national but not a citizen of the United States." INA §101(a)(21): "The term 'national' means a person owing permanent allegiance to a state."*
@@ -145,11 +145,11 @@ Mentz points to **28 U.S.C. § 3002, subsection (15)(A)**: "United States" "mean
 ## 7. The 14th Amendment, "the two questions," and the dual system [33:20–41:00]
 
 ![14th Amendment](slides/slide-16_00-33-23.jpg)
-*Slide 16 [33:23]: "The 14th Amendment": "All persons born or naturalized in the United States, **and** subject to the jurisdiction thereof, are citizens of the United States and of the **State** wherein they reside." Notes "eight legal landmines," focuses on the word "and," and concludes "the 14th Amendment actually gives you a choice which jurisdiction you'd like to live under: common law pre-Civil War Republic, or the Federal Corporation."*
+*Slide 16 [33:23]: "The [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/)": "All persons born or naturalized in the United States, **and** subject to the jurisdiction thereof, are citizens of the United States and of the **State** wherein they reside." Notes "eight legal landmines," focuses on the word "and," and concludes "the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/) actually gives you a choice which jurisdiction you'd like to live under: common law pre-Civil War Republic, or the Federal Corporation."*
 
 - The capital-S "State" in the amendment is "not a typo."
 - His reading: the amendment does not say persons born or naturalised here *are* subject to the jurisdiction. It says "*and* subject." If some Americans are, others are not.
-- In contrast, the 13th Amendment refers to "their jurisdiction," a collective jurisdiction of all the states. The 14th "all of a sudden… changes into a singular centralized jurisdiction."
+- In contrast, the [13th Amendment](https://constitution.congress.gov/constitution/amendment-13/) refers to "their jurisdiction," a collective jurisdiction of all the states. The 14th "all of a sudden… changes into a singular centralized jurisdiction."
 
 ![The 2 Questions](slides/slide-17_00-35-32.jpg)
 *Slide 17 [35:32]: "The 2 Questions": 1) "Are you a citizen of the United States?" 2) "Are you a resident?"*
@@ -158,9 +158,9 @@ Mentz points to **28 U.S.C. § 3002, subsection (15)(A)**: "United States" "mean
 *Slide 18 [36:15]: Legal-context rephrasing: (1) "Are you a recently freed slave who was assigned 'federal citizenship' with 'civil rights' after the Civil War?" (2) "Are you 'residing' in a state requesting protection from the federal government against any actions or abuses of your state?"*
 
 ![A dual system: 28 U.S.C. § 1746](slides/slide-19_00-36-40.jpg)
-*Slide 19 [36:40]: "A Dual System": 28 U.S.C. § 1746, unsworn declarations under penalty of perjury.*
+*Slide 19 [36:40]: "A Dual System": [28 U.S.C. § 1746](https://www.law.cornell.edu/uscode/text/28/1746), unsworn declarations under penalty of perjury.*
 
-- § 1746 gives **two** declaration formulas: one for execution *outside* "the United States" ("under the laws of the United States of America") and one for execution *within* it ("its territories, possessions, or commonwealths"), where "of America" is omitted.
+- [§ 1746](https://www.law.cornell.edu/uscode/text/28/1746) gives **two** declaration formulas: one for execution *outside* "the United States" ("under the laws of the United States of America") and one for execution *within* it ("its territories, possessions, or commonwealths"), where "of America" is omitted.
 - Mentz's point: by default, anything signed under penalty of perjury falls into the **federal corporation** form. He says his students have written "United States of America" into contracts to choose the jurisdiction. "It's your choice."
 
 ---
@@ -168,14 +168,14 @@ Mentz points to **28 U.S.C. § 3002, subsection (15)(A)**: "United States" "mean
 ## 8. Title 26: "non-resident alien" explained [41:00–44:10]
 
 ![CFR Title 26](slides/slide-20_00-38-38.jpg)
-*Slide 20 [38:38]: "CFR Title 26 – Income Tax": § 1.1-1, income tax "on individuals… who is a citizen or resident of the United States, to the extent provided by section 871(b) or 877(b), on the income of a nonresident alien individual."*
+*Slide 20 [38:38]: "CFR [Title 26](https://www.law.cornell.edu/uscode/text/26) – Income Tax": [§ 1.1-1](https://www.law.cornell.edu/cfr/text/26/1.1-1), income tax "on individuals… who is a citizen or resident of the United States, to the extent provided by [section 871(b)](https://www.law.cornell.edu/uscode/text/26/871#b) or [877(b)](https://www.law.cornell.edu/uscode/text/26/877#b), on the income of a nonresident alien individual."*
 
 ![Non-resident alien](slides/slide-21_00-41-08.jpg)
-*Slide 21 [41:08]: "How is a 'nonresident alien' the free state citizen?" "Because you are 'nonresident' to the residency of the 14th Amendment and therefore 'alien' to the federal citizenship."*
+*Slide 21 [41:08]: "How is a 'nonresident alien' the free state citizen?" "Because you are 'nonresident' to the residency of the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/) and therefore 'alien' to the federal citizenship."*
 
 - Mentz says the Code imposes tax on citizens and residents "of the United States," which lacks "of America" and so means the corporation.
-- §871(b) and §877(b) cover the only two constitutional taxes before the Civil War: expatriation, and business within D.C. or proceeds from federally incorporated bonds (his example: Pacific Railroad bonds).
-- "Non-resident alien" is "just another dialectic label." A state citizen is non-resident to the residency created by the 14th Amendment and alien to federal citizenship. "When you're a national you're no longer a resident, so whenever they ask you, just say no."
+- [§871(b)](https://www.law.cornell.edu/uscode/text/26/871#b) and [§877(b)](https://www.law.cornell.edu/uscode/text/26/877#b) cover the only two constitutional taxes before the Civil War: expatriation, and business within D.C. or proceeds from federally incorporated bonds (his example: Pacific Railroad bonds).
+- "Non-resident alien" is "just another dialectic label." A state citizen is non-resident to the residency created by the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/) and alien to federal citizenship. "When you're a national you're no longer a resident, so whenever they ask you, just say no."
 
 ---
 
@@ -188,7 +188,7 @@ Mentz points to **28 U.S.C. § 3002, subsection (15)(A)**: "United States" "mean
 - "Do Not Detain" code on U.S. passports. Evidence offered: a sheriff on camera confirming it, and many member videos of police returning a passport card and releasing the member.
 - No personal income tax, state or federal.
 - No longer subject to federal jurisdiction, codes, statutes and mandates. The power to issue traffic citations, parking tickets and jury summonses "disappears."
-- Reserve Bill of Rights on contracts; protect children from CPS and elders from APS; affirm status against any agency.
+- Reserve [Bill of Rights](https://www.archives.gov/founding-docs/bill-of-rights-transcript) on contracts; protect children from CPS and elders from APS; affirm status against any agency.
 - **Keep benefits** (Social Security, veterans). "They're just a contract."
 - Opt out of Selective Service and any potential draft.
 
@@ -217,7 +217,7 @@ Mentz points to **28 U.S.C. § 3002, subsection (15)(A)**: "United States" "mean
 *Slide 25 [45:25]: California Attorney General reply: "We are prohibited by law from representing private individuals or providing legal advice…" Mentz asks: "When did they ever address you as a 'private individual'?"*
 
 - Mentz reads the response as an admission that the sender is now in the "private" rather than the "corporate fictional" jurisdiction.
-- He adds that after the 14th Amendment, states had to adopt corporate versions of their constitutions, so every capital-S State is a "sub-corporation" of the D.C. corporation.
+- He adds that after the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/), states had to adopt corporate versions of their constitutions, so every capital-S State is a "sub-corporation" of the D.C. corporation.
 
 ![EDD unemployment contract](slides/slide-26_00-48-11.jpg)
 *Slide 26 [48:11]: California EDD unemployment-insurance contract: "I declare under penalty of perjury that I am a U.S. citizen or national." "You are still entitled to benefits because all you're changing is your 'political status.'"*
@@ -265,7 +265,7 @@ Host Griess reads submitted questions. Where it helps, the entry gives the quest
 
 | Time | Question | Mentz's answer |
 |---|---|---|
-| 54:21 | Reaction from host on "problem-reaction-solution"; did they plan the Civil War? | "International bankers" tried to subvert the republic through the 1800s by bribing officials and infiltrating legislatures; "the Civil War was their last resort." The 14th Amendment's first sentence was added "an hour before midnight." |
+| 54:21 | Reaction from host on "problem-reaction-solution"; did they plan the Civil War? | "International bankers" tried to subvert the republic through the 1800s by bribing officials and infiltrating legislatures; "the Civil War was their last resort." The [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/)'s first sentence was added "an hour before midnight." |
 | 56:21 | Which U.S. Code titles do nationals remain subject to? | "None," except provisions naming nationals, and those are usually exemptions. A recent executive order on citizenship said its definitions follow the INA, which he reads as confirming "national = state citizen." He would like a FOIA on how many members of Congress are nationals "because none of them are paying income tax." |
 | 58:25 | Positive law vs. non-positive law | Positive law passes the House and Senate, is signed, and enters the Statutes at Large. The U.S. Code and CFR are "filtered, sliced and diced" and may lose their positive-law character or be inverted. "All that doesn't matter once you're a national." |
 | 59:39 | TSA | An unsolved item: express lines for nationals existed and were removed. "Whenever they remove something they have to keep the remedy in place," so students are working on it. He describes members as "national pioneers." |
@@ -278,11 +278,11 @@ Host Griess reads submitted questions. Where it helps, the entry gives the quest
 | 1:13:39 | Free travel: does the vehicle code apply? Registration? Licence? | "Technically yes [it no longer applies], but the cops will not agree." Options by comfort level: show the passport card; some drive with no plate or a homemade plate (more stops; about 5% of officers "on a power trip" may tow). **His recommendation:** non-resident Montana plates, with no smog or inspection, permanent plates for cars over ten years, and a passport accepted as ID. He was pulled over in California for tint and a missing front plate and could not be cited because the car was Montana-registered. |
 | 1:17:05 | Veterans' benefits | "You keep them." No repercussion. |
 | 1:17:25 | A manager at the Secretary of State asked why the passport should look different | What changes is "the information that's programmed into your passports," which law enforcement and TSA see only in limited form. A TSA agent showed him a screen with name, photo, expiry and a green "valid" bar. |
-| 1:18:36 | Independent contractor status | Not military contractor. State and county contracting are "a gray zone," workable for some. He says nationals need not disclose status. For independent contractors "it's not a W-4," so there is nothing to mark exempt. |
+| 1:18:36 | Independent contractor status | Not military contractor. State and county contracting are "a gray zone," workable for some. He says nationals need not disclose status. For independent contractors "it's not a [W-4](https://www.irs.gov/forms-pubs/about-form-w-4)," so there is nothing to mark exempt. |
 | 1:19:46 | Children | Both parents must become nationals first. A "children's affidavit" template is signed by both, then it is sent to the Secretary of State, followed by a passport application. Both parents must attend the child's passport appointment, or the parent with full custody. Where only one parent agrees it is "really tricky" and untested. |
 | 1:21:40 | Course support | Email support; a monthly one-hour membership call with a topic and often a success story; private one-on-one calls. **Success story** shared: a member (October of the previous year) "shut down the whole traffic court"; 40-plus cases were dismissed after she stated her status three times, the last before the judge. |
 | 1:23:17 | Existing contracts | Not needed. One affidavit version includes language disavowing prior contracts that conflict with the new status. Mostly employment paperwork needs updating. |
-| 1:24:18 | If pulled over, what to say? | A script based on equity: ask questions, make no statements ("he who makes a statement has the burden of proof"). Some tape the questions inside the door. Keep it simple: hand over the passport card; "say as little as possible"; invoke the Fifth Amendment or *Miranda*. He does not advocate going without insurance, though some nationals carry only a passport card. |
+| 1:24:18 | If pulled over, what to say? | A script based on equity: ask questions, make no statements ("he who makes a statement has the burden of proof"). Some tape the questions inside the door. Keep it simple: hand over the passport card; "say as little as possible"; invoke the [Fifth Amendment](https://constitution.congress.gov/constitution/amendment-5/) or *Miranda*. He does not advocate going without insurance, though some nationals carry only a passport card. |
 | 1:26:20 | Incarcerated people | He has not dealt with it. Logistics (notarisation, certified mail) look hard. "Two witnesses" is a biblical alternative to notarisation. He says the equity pathway is likelier suited to victimless offences ("discharge the commercial value of the sentence"). |
 
 ---
@@ -316,9 +316,9 @@ Host Griess reads submitted questions. Where it helps, the entry gives the quest
 
 These are observations for a public reader, not rebuttals.
 
-1. **28 U.S.C. § 3002 definitions** begin with "As used in this chapter" and belong to the Federal Debt Collection Procedures Act. The talk treats subsection (15)(A) as a general definition of "United States." The text of § 3002(15) should be read in full.
-2. **The 14th Amendment's text** reads "…and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside." The talk's emphasis is on "and" and on capital-S "State." Case law interpreting the Citizenship Clause is not discussed.
-3. **8 U.S.C. § 1101(a)(21)** does define "national" as "a person owing permanent allegiance to a state," as the slide shows. A separate definition, § 1101(a)(22), defines "national of the United States" (a citizen, or a person owing permanent allegiance to the United States). The talk's reading of lowercase "state" as the pre-Civil War state citizen, and of the capital-S "State" definition in § 1101(a)(36), is Mentz's interpretation. The statute does not itself say so.
-4. **The case quotations** are given from slides. *Jones v. Temmer* and *U.S. v. Valentine* are lower-court (F. Supp.) citations, and the exact wording and context should be confirmed in the reporters.
+1. **[28 U.S.C. § 3002](https://www.law.cornell.edu/uscode/text/28/3002) definitions** begin with "As used in this chapter" and belong to the Federal Debt Collection Procedures Act. The talk treats subsection (15)(A) as a general definition of "United States." The text of [§ 3002(15)](https://www.law.cornell.edu/uscode/text/28/3002#15) should be read in full.
+2. **The [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/)'s text** reads "…and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside." The talk's emphasis is on "and" and on capital-S "State." Case law interpreting the Citizenship Clause is not discussed.
+3. **[8 U.S.C. § 1101(a)(21)](https://www.law.cornell.edu/uscode/text/8/1101#a_21)** does define "national" as "a person owing permanent allegiance to a state," as the slide shows. A separate definition, [§ 1101(a)(22)](https://www.law.cornell.edu/uscode/text/8/1101#a_22), defines "national of the United States" (a citizen, or a person owing permanent allegiance to the United States). The talk's reading of lowercase "state" as the pre-Civil War state citizen, and of the capital-S "State" definition in [§ 1101(a)(36)](https://www.law.cornell.edu/uscode/text/8/1101#a_36), is Mentz's interpretation. The statute does not itself say so.
+4. **The case quotations** are given from slides. Note that *Madden v. Kentucky* (1940), which the deck cites for "natural rights inherent in state citizenship," is generally understood to have overruled *[Colgate v. Harvey](https://supreme.justia.com/cases/federal/us/296/404/)* (1935), which the deck cites just before it; whether the quoted passages still carry the weight claimed is worth checking. *[Jones v. Temmer](https://law.justia.com/cases/federal/district-courts/FSupp/829/1226/1876934/)* and *U.S. v. Valentine* are lower-court (F. Supp.) citations, and the exact wording and context should be confirmed in the reporters.
 5. **The "do not detain" code, the 1835 Secretary-of-State case and the success stories** are presented via anecdote, a video the audience does not see in this recording, or unnamed authority. No citation is given for the 1835 case.
 6. **Outcomes are anecdotal.** The talk contains no independent evidence of how often police, the IRS or courts respond as described.
