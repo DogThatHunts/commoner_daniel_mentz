@@ -27,6 +27,7 @@ Running log of progress in this project. Newest entries on top.
 - Repo is private for now. The user wants to share publicly later.
 
 ### Open items / next session
+0. **Planned for next session: link the timestamps back to the videos.** Make every timestamp in the summaries (slide captions, section headings, Q&A table times) a clickable YouTube link at that moment, using `https://www.youtube.com/watch?v=<id>&t=<seconds>s`. Video IDs: 01 `v2N5ESMKI4g`, 02 `_-LTnN5BeBs`, 03 `POZfdI0f4TU`. Do it in `summary.md` for all three, regenerate `summary.html`, and apply the same to the Time column in each `slides/slides-index.md`. The summaries currently say timestamps can be opened by adding `&t=<seconds>`; update that sentence once they are links.
 1. **Get the user's feedback on 02 and 03** and revise. Likely points: the tone and length of the "Claims worth checking" sections, and whether the 03 summary should say more about the Exit & Build promotion.
 2. **Column D titles:** The titles used for 02 and 03 are whatever `interview.md` already contained. I did not check them against Column D of the Queue tab. My search of Queue rows A1:D1000 did not turn up the Mentz row IDs, so the rows may be further down the sheet.
 3. **Going public:** `gh repo edit DogThatHunts/commoner_daniel_mentz --visibility public --accept-visibility-change-consequences`. Offer GitHub Pages so `index.html` works online. Note the HTML pages load slide images by relative path, so they must stay beside `slides/`. `transcript.md` and `slides-index.md` links open as plain text locally.
