@@ -20,6 +20,8 @@ Standing rules for this project. Read at the start of each session. Add a new nu
 
 **P5. Titles come from Column D of the Queue sheet** (user-set, 2026-11-22). When the sheet is reachable, use the Column D title for each summary. Currently the titles come from `interview.md`, which was copied from the sheet.
 
+**P12. Citations are linked from the shared register** (working convention, adopted 2026-11-22 with the user's approval). Run the register's own linker (`transcription-agent/publisher/citations.py` with `_citation-register/register.json`) on each `summary.md`. Review the diff before applying: remove any false positive by hand, and reword self-references such as "Section 11" so the linker cannot read them as statutes. Resolve every miss automatically first (the register's resolver, CourtListener citation lookup by reporter cite, and pages opened in Chrome for sites that block scripts), then write the result to `_citation-register/pending/daniel_mentz_<date>.json`. The user reviews and merges. Never merge into `register.json` from here, and never invent a URL.
+
 ## Files and layout
 
 **P6. One numbered folder per interview** (user-set, 2026-11-22): `NN.slug/` containing `interview.md`, `summary.md`, `summary.html`, `slides/` (with `slides-index.md`) and `collateral/` (`transcript.md`, `video-metadata.json`, and `thumbnail.jpg` when P1 needs it).
