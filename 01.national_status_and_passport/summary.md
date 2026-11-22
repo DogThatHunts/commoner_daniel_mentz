@@ -255,7 +255,7 @@ Mentz points to **[28 U.S.C. § 3002](https://www.law.cornell.edu/uscode/text/28
 *Slide 31 [53:15]: Member testimonials (second set).*
 
 ![Free eBook](slides/slide-32_00-53-31.jpg)
-*Slide 32 [53:31]: "Grab Your Free eBook: *The Status Awakening*." Link in the description / chat ([commonerlaw.com/national-status-welcome](https://www.commonerlaw.com/national-status-welcome)).*
+*Slide 32 [53:31]: "Grab Your Free eBook: *[The Status Awakening](https://www.sacredhonoref.com)*" (by the publisher, Sacred Honor Educational Fellowship). Link in the description / chat ([commonerlaw.com/national-status-welcome](https://www.commonerlaw.com/national-status-welcome)).*
 
 ---
 
