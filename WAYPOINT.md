@@ -4,6 +4,14 @@ Running log of progress in this project. Newest entries on top.
 
 ## 2026-11-22
 
+**Update (end of session): repo is now PUBLIC with GitHub Pages enabled.**
+- Index page: **https://dogthathunts.github.io/commoner_daniel_mentz/index.html**
+- Repo: https://github.com/DogThatHunts/commoner_daniel_mentz (public)
+- All three summaries are approved by the user. Policies P1 to P10 are in [POLICIES.md](POLICIES.md); P10 is oldest-to-newest order on the index.
+- Pages serves `.md` files as `text/markdown`, so links to `transcript.md` and `slides-index.md` may download rather than display in a browser. Consider rendering those as HTML or linking to the github.com view.
+- Public transcripts: the repo includes the verbatim transcripts. The user chose to publish.
+- Remaining plan for next session: link every timestamp to the video (item 0 below). Item 3 below (going public) is done.
+
 **State: all three summaries drafted and pushed. 01 is approved. 02 and 03 await review.**
 
 ### What exists
@@ -15,8 +23,8 @@ Running log of progress in this project. Newest entries on top.
 | # | Folder | Video | Slides | Status |
 |---|---|---|---|---|
 | 01 | `01.national_status_and_passport` | `v2N5ESMKI4g` | 32 | Approved |
-| 02 | `02.national_status_and_right_to_travel` | `_-LTnN5BeBs` | 6 | Draft, awaiting review |
-| 03 | `03.building_freedom_from_the_ground_up` | `POZfdI0f4TU` | 18 | Draft, awaiting review |
+| 02 | `02.national_status_and_right_to_travel` | `_-LTnN5BeBs` | 6 | Approved |
+| 03 | `03.building_freedom_from_the_ground_up` | `POZfdI0f4TU` | 18 | Approved |
 
 - The queue sheet is Google Sheet `1gws-Nmp5YFnMWK6oZgcEDkVL8SPMwhVWmBf_xZcaS9w`, tab "Queue". Transcripts come from the Drive links in each `interview.md`.
 - The `interview.md` files for 01 and 03 were swapped this session (they had the wrong videos). They are correct now.
