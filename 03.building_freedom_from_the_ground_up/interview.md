@@ -1,0 +1,1 @@
+3574e0d1-b72a-4dfc-92b5-69cb3590491a	https://www.youtube.com/watch?v=POZfdI0f4TU	YouTube	Commoner | The Commoner’s Response: Building Freedom from the Ground Up | Daniel Mentz	2026-11-14T04:14:20.694048+00:00	2026-11-14T07:46:04.991000+00:00	youtube_follow	completed	https://drive.google.com/file/d/12zN_ij3Ry4aKzYIuaHDG1cSNx7c4EU0o/view?usp=drivesdk
