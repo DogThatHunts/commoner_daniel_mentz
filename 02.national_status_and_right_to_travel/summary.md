@@ -47,7 +47,7 @@ Throughout, Mentz stresses there is "no silver bullet," that outcomes vary by of
 
 **Two aspects of getting a citation dismissed.** He is recording an extra module for the National Status & Passport Pathway on the steps. Key points:
 - Traffic courts are "entry-level bulldogs." Some of the time the person on the bench is a **commissioner** rather than a judge, with no oath to uphold the Constitution, "just there to administer the commercial aspect of this transaction."
-- "Everything has been turned commercial since 1938, technically since 1933." He cites *Erie Railroad v. Tompkins* (1938) as collapsing all forms of law in the courts, so "all the layers of law still exist within every single court" and it is up to each person "to bring back the layer that you want to have recognized."
+- "Everything has been turned commercial since 1938, technically since 1933." He cites *[Erie Railroad v. Tompkins](https://supreme.justia.com/cases/federal/us/304/64/)* (1938) as collapsing all forms of law in the courts, so "all the layers of law still exist within every single court" and it is up to each person "to bring back the layer that you want to have recognized."
 - He cites [Black's Law Dictionary](https://thelawdictionary.org/) (fourth edition onward) for "custom supersedes common law," so courtroom customs harden into law, and bringing common law in "is not impossible… but you really have to know what you're doing."
 
 **The ticket as negotiable instrument.** Because the citation is "a commercial instrument… a negotiable instrument":
@@ -189,8 +189,8 @@ Mentz says this "usually ends right here," while acknowledging "bad apples" who 
 
 These are observations for a public reader, not rebuttals.
 
-1. **Roadside script.** The "custodial interrogation / Miranda" questions rely on the idea that an officer must release you if he won't read a Miranda warning. U.S. case law (e.g. *Berkemer v. McCarty*) generally treats an ordinary traffic stop as non-custodial, so no Miranda warning is required. Whether the script "usually ends right here" rests on anecdote, and the speaker himself notes officers write tickets regardless.
-2. ***Erie Railroad v. Tompkins* (1938)** is described as collapsing all forms of law into a commercial/admiralty system. The decision concerns which substantive law federal courts apply in diversity cases. The reading here is the speaker's.
+1. **Roadside script.** The "custodial interrogation / Miranda" questions rely on the idea that an officer must release you if he won't read a Miranda warning. U.S. case law (e.g. *[Berkemer v. McCarty](https://www.law.cornell.edu/supremecourt/text/468/420)*) generally treats an ordinary traffic stop as non-custodial, so no Miranda warning is required. Whether the script "usually ends right here" rests on anecdote, and the speaker himself notes officers write tickets regardless.
+2. ***[Erie Railroad v. Tompkins](https://supreme.justia.com/cases/federal/us/304/64/)* (1938)** is described as collapsing all forms of law into a commercial/admiralty system. The decision concerns which substantive law federal courts apply in diversity cases. The reading here is the speaker's.
 3. **Case files as traded securities, "90 times" case value, four standard bonds.** These are asserted without citations. The "Secret Financials" video is recommended as the source.
 4. **"Do not detain" code and the "administrative file."** The speaker acknowledges "we obviously don't have access to these records." Evidence offered is a sheriff on video (not shown in this recording) and member anecdotes.
 5. **Certified mail as "received and filed."** A claim about how filings work. Court filing rules vary by court and by what is mailed where, and Faye's experience (returned mail) was the opposite.
