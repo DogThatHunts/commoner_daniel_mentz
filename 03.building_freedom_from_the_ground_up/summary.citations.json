@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "file": "summary.md",
+ "project": "daniel_mentz",
+ "generated": "2026-11-22",
+ "register_version": "31cf231",
+ "doc_sha256": "b52ccc6607cc3f70b90ad96bf7678c59ef3275990f06d658e1804b56d2ac9ff4",
+ "links": [
+  {
+   "record": "const.amend.13",
+   "category": "constitution",
+   "url": "https://constitution.congress.gov/constitution/amendment-13/",
+   "record_hash": "ad5e54c348b7",
+   "count": 2,
+   "texts": [
+    "13th Amendment"
+   ]
+  },
+  {
+   "record": "const.amend.14",
+   "category": "constitution",
+   "url": "https://constitution.congress.gov/constitution/amendment-14/",
+   "record_hash": "2a0e242eb641",
+   "count": 2,
+   "texts": [
+    "14th Amendment"
+   ]
+  },
+  {
+   "record": "sec.the-second-founding-how-the-civil-war-and-reconstruction-remade-the-constitution",
+   "category": "secondary_authorities",
+   "url": "https://en.wikipedia.org/wiki/The_Second_Founding",
+   "record_hash": "6e0291e6197a",
+   "count": 1,
+   "texts": [
+    "The Second Founding"
+   ]
+  },
+  {
+   "record": "usc.28.3002",
+   "category": "usc_sections",
+   "url": "https://www.law.cornell.edu/uscode/text/28/3002",
+   "record_hash": "231213c6252f",
+   "count": 3,
+   "texts": [
+    "28 USC 3002",
+    "§ 3002"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "file": "summary.md",
+ "project": "daniel_mentz",
+ "generated": "2026-11-22",
+ "register_version": "31cf231",
+ "doc_sha256": "451ed89c9629ed906da7c8ea8910dbfbbe4cd2ea1dd95430b77629322a09da7d",
+ "links": [
+  {
+   "record": "case.berkemer-v-mccarty-1984",
+   "category": "cases",
+   "url": "https://www.law.cornell.edu/supremecourt/text/468/420",
+   "record_hash": "74774a9c3cae",
+   "count": 1,
+   "texts": [
+    "Berkemer v. McCarty"
+   ]
+  },
+  {
+   "record": "case.erie-railroad-co-v-tompkins-1938",
+   "category": "cases",
+   "url": "https://supreme.justia.com/cases/federal/us/304/64/",
+   "record_hash": "4db722abcb3b",
+   "count": 2,
+   "texts": [
+    "Erie Railroad v. Tompkins"
+   ]
+  },
+  {
+   "record": "const.amend.5",
+   "category": "constitution",
+   "url": "https://constitution.congress.gov/constitution/amendment-5/",
+   "record_hash": "dae5bbcf7bed",
+   "count": 1,
+   "texts": [
+    "Fifth"
+   ]
+  },
+  {
+   "record": "const.amend.6",
+   "category": "constitution",
+   "url": "https://constitution.congress.gov/constitution/amendment-6/",
+   "record_hash": "afd24f08e17a",
+   "count": 2,
+   "texts": [
+    "Sixth Amendment",
+    "Sixth"
+   ]
+  },
+  {
+   "record": "const.bill-of-rights",
+   "category": "constitution",
+   "url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+   "record_hash": "0ec9a81f7f42",
+   "count": 1,
+   "texts": [
+    "The Bill of Rights"
+   ]
+  },
+  {
+   "record": "sec.black-s-law-dictionary",
+   "category": "secondary_authorities",
+   "url": "https://thelawdictionary.org/",
+   "record_hash": "55c1a68ff730",
+   "count": 2,
+   "texts": [
+    "Black's Law Dictionary"
+   ]
+  }
+ ]
+}
