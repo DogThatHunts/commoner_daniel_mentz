@@ -125,7 +125,7 @@ Mentz points to **[28 U.S.C. § 3002](https://www.law.cornell.edu/uscode/text/28
 *Slide 13 [\[26:25\]](https://www.youtube.com/watch?v=v2N5ESMKI4g&t=1577s): "'national' = state citizen of the Constitutional Union," with [8 U.S.C. § 1101](https://www.law.cornell.edu/uscode/text/8/1101) on screen.*
 
 ![Certificates of Non-Citizen Nationality, 1](slides/slide-14_00-26-59.jpg)
-*Slide 14 [\[26:59\]](https://www.youtube.com/watch?v=v2N5ESMKI4g&t=1611s): "Certificates of Non-Citizen Nationality." State Department policy page (travel.state.gov): "As defined by the INA, **all U.S. citizens are U.S. nationals**"; applicants may get a passport that would "delineate and certify their status as a national but not a citizen of the United States." [INA §101(a)(21)](https://www.law.cornell.edu/uscode/text/8/1101#a_21): "The term 'national' means a person owing permanent allegiance to a state."*
+*Slide 14 [\[26:59\]](https://www.youtube.com/watch?v=v2N5ESMKI4g&t=1611s): "Certificates of Non-Citizen Nationality." State Department policy page ([travel.state.gov](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship/Certificates-Non-Citizen-Nationality.html)): "As defined by the INA, **all U.S. citizens are U.S. nationals**"; applicants may get a passport that would "delineate and certify their status as a national but not a citizen of the United States." [INA §101(a)(21)](https://www.law.cornell.edu/uscode/text/8/1101#a_21): "The term 'national' means a person owing permanent allegiance to a state."*
 
 **The argument, step by step:**
 1. State Department policy says all U.S. citizens are U.S. nationals. Mentz asks why no one has ever asked "are you a U.S. national?"
