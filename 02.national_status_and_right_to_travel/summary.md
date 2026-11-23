@@ -144,7 +144,7 @@ Mentz says this "usually ends right here," while acknowledging "bad apples" who 
 
 **Casey's real stop [\[55:23–57:45\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=3315s).** A California Highway Patrol officer needed "that number," ultimately accepting an old registration, which Casey then used to beat the ticket. Mentz: the licence number is the individual contract, so "jurisdiction is there"; without it the officer's case may be harder.
 
-**Tamara (Virginia) [\[57:45–69:45\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=3457s).**
+**Tamara (Virginia) [\[57:45–1:09:45\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=3457s).**
 - Explains the passport **card** (domestic use, requested on the same application as the book).
 - Holds an "American state national" credential and a Virginia licence marked "federal limits apply." Mentz says he can't speak to that method: "we go the route of the official passport attaching an affidavit," which produces credentials "encoded with this do not detain code." Law enforcement "only see a code that tells them what to do or not to do with you."
 - He says what is in the **administrative file** at the State Department is "the highest and best evidence" of standing. That is the first step, the "citizenship evidence affidavit."
