@@ -11,11 +11,14 @@ NN.slug/
   collateral/       transcript.md, video-metadata.json
 ```
 
+The `digest/` folder holds the cross-reading of 01 to 03 (`summary.md`, `summary.html`, `collateral/thumbnail.jpg`); it is listed last (P10).
+
 | # | Interview | Status |
 |---|---|---|
 | 01 | [National Status and Passport](01.national_status_and_passport/summary.md) | Approved |
 | 02 | [National Status, Passports, and the Right to Travel](02.national_status_and_right_to_travel/summary.md) | Approved |
 | 03 | [The Commoner's Response: Building Freedom from the Ground Up](03.building_freedom_from_the_ground_up/summary.md) | Approved |
+| Digest | [The three programs read together](digest/summary.md) | Draft for review (2026-11-23) |
 
 See [POLICIES.md](POLICIES.md) for how this project is run.
 

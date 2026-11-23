@@ -1,0 +1,235 @@
+{
+ "schema": 1,
+ "file": "summary.md",
+ "project": "daniel_mentz",
+ "generated": "2026-11-23",
+ "register_version": "996a7b7",
+ "doc_sha256": "1c31daa85cdd106e94528fe501ad0f43411e0a121063eaa1952e6568c86d09af",
+ "links": [
+  {
+   "record": "act.emergency-banking-relief-act",
+   "category": "acts_of_congress",
+   "url": "https://www.govinfo.gov/content/pkg/STATUTE-48/pdf/STATUTE-48-Pg1.pdf",
+   "record_hash": "80477fe03c9c",
+   "count": 1,
+   "texts": [
+    "Emergency Banking Relief Act"
+   ]
+  },
+  {
+   "record": "act.organic-act-of-1871",
+   "category": "acts_of_congress",
+   "url": "https://www.govinfo.gov/content/pkg/STATUTE-16/pdf/STATUTE-16-Pg419.pdf",
+   "record_hash": "4482a22ed2ed",
+   "count": 1,
+   "texts": [
+    "Organic Act of 1871"
+   ]
+  },
+  {
+   "record": "case.belmont-v-town-of-gulfport-1929",
+   "category": "cases",
+   "url": "https://www.courtlistener.com/opinion/3390292/belmont-v-town-of-gulfport/",
+   "record_hash": "1fad27f66d28",
+   "count": 2,
+   "texts": [
+    "Belmont v. Town of Gulfport",
+    "Belmont"
+   ]
+  },
+  {
+   "record": "case.berkemer-v-mccarty-1984",
+   "category": "cases",
+   "url": "https://www.law.cornell.edu/supremecourt/text/468/420",
+   "record_hash": "74774a9c3cae",
+   "count": 1,
+   "texts": [
+    "Berkemer v. McCarty"
+   ]
+  },
+  {
+   "record": "case.colgate-v-harvey-1935",
+   "category": "cases",
+   "url": "https://supreme.justia.com/cases/federal/us/296/404/",
+   "record_hash": "fe2a174e8772",
+   "count": 2,
+   "texts": [
+    "Colgate v. Harvey",
+    "Colgate"
+   ]
+  },
+  {
+   "record": "case.erie-railroad-co-v-tompkins-1938",
+   "category": "cases",
+   "url": "https://supreme.justia.com/cases/federal/us/304/64/",
+   "record_hash": "4db722abcb3b",
+   "count": 2,
+   "texts": [
+    "Erie Railroad Co. v. Tompkins"
+   ]
+  },
+  {
+   "record": "case.jones-v-temmer-1993",
+   "category": "cases",
+   "url": "https://law.justia.com/cases/federal/district-courts/FSupp/829/1226/1876934/",
+   "record_hash": "a600f298cbab",
+   "count": 1,
+   "texts": [
+    "Jones v. Temmer"
+   ]
+  },
+  {
+   "record": "case.kitchens-v-steele-1953",
+   "category": "cases",
+   "url": "https://www.courtlistener.com/opinion/1749268/kitchens-v-steele/",
+   "record_hash": "fb8fce73386f",
+   "count": 2,
+   "texts": [
+    "Kitchens v. Steele",
+    "Kitchens"
+   ]
+  },
+  {
+   "record": "case.madden-v-kentucky-1940",
+   "category": "cases",
+   "url": "https://www.law.cornell.edu/supremecourt/text/309/83",
+   "record_hash": "54ec65c3e2ca",
+   "count": 2,
+   "texts": [
+    "Madden v. Kentucky",
+    "Madden"
+   ]
+  },
+  {
+   "record": "case.miranda-v-arizona-1966",
+   "category": "cases",
+   "url": "https://www.law.cornell.edu/supremecourt/text/384/436",
+   "record_hash": "f3cdf0a9d6d8",
+   "count": 1,
+   "texts": [
+    "Miranda v. Arizona"
+   ]
+  },
+  {
+   "record": "case.united-states-v-slater-1982",
+   "category": "cases",
+   "url": "https://www.courtlistener.com/opinion/1431982/united-states-v-slater/",
+   "record_hash": "9c9d130b8d37",
+   "count": 1,
+   "texts": [
+    "United States v. Slater, 545 F. Supp. 179"
+   ]
+  },
+  {
+   "record": "case.united-states-v-valentine-1968",
+   "category": "cases",
+   "url": "https://www.courtlistener.com/opinion/1641873/united-states-v-valentine/",
+   "record_hash": "3950214a4e3b",
+   "count": 1,
+   "texts": [
+    "United States v. Valentine"
+   ]
+  },
+  {
+   "record": "cfr.26.1.1-1-a",
+   "category": "cfr_sections",
+   "url": "https://www.law.cornell.edu/cfr/text/26/1.1-1",
+   "record_hash": "90e83abe3b25",
+   "count": 1,
+   "texts": [
+    "26 C.F.R. § 1.1-1"
+   ]
+  },
+  {
+   "record": "const.amend.13",
+   "category": "constitution",
+   "url": "https://constitution.congress.gov/constitution/amendment-13/",
+   "record_hash": "ad5e54c348b7",
+   "count": 2,
+   "texts": [
+    "13th Amendment"
+   ]
+  },
+  {
+   "record": "const.amend.14",
+   "category": "constitution",
+   "url": "https://constitution.congress.gov/constitution/amendment-14/",
+   "record_hash": "2a0e242eb641",
+   "count": 3,
+   "texts": [
+    "14th Amendment"
+   ]
+  },
+  {
+   "record": "const.amend.5",
+   "category": "constitution",
+   "url": "https://constitution.congress.gov/constitution/amendment-5/",
+   "record_hash": "dae5bbcf7bed",
+   "count": 1,
+   "texts": [
+    "Fifth"
+   ]
+  },
+  {
+   "record": "const.amend.6",
+   "category": "constitution",
+   "url": "https://constitution.congress.gov/constitution/amendment-6/",
+   "record_hash": "afd24f08e17a",
+   "count": 1,
+   "texts": [
+    "Sixth"
+   ]
+  },
+  {
+   "record": "const.bill-of-rights",
+   "category": "constitution",
+   "url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+   "record_hash": "0ec9a81f7f42",
+   "count": 1,
+   "texts": [
+    "The Bill of Rights"
+   ]
+  },
+  {
+   "record": "sec.black-s-law-dictionary",
+   "category": "secondary_authorities",
+   "url": "https://thelawdictionary.org/",
+   "record_hash": "55c1a68ff730",
+   "count": 1,
+   "texts": [
+    "Black's Law Dictionary"
+   ]
+  },
+  {
+   "record": "sec.the-second-founding-how-the-civil-war-and-reconstruction-remade-the-constitution",
+   "category": "secondary_authorities",
+   "url": "https://en.wikipedia.org/wiki/The_Second_Founding",
+   "record_hash": "6e0291e6197a",
+   "count": 1,
+   "texts": [
+    "The Second Founding"
+   ]
+  },
+  {
+   "record": "usc.28.3002",
+   "category": "usc_sections",
+   "url": "https://www.law.cornell.edu/uscode/text/28/3002",
+   "record_hash": "231213c6252f",
+   "count": 1,
+   "texts": [
+    "28 U.S.C. § 3002"
+   ]
+  },
+  {
+   "record": "usc.8.1101-a-21",
+   "category": "usc_sections",
+   "url": "https://www.law.cornell.edu/uscode/text/8/1101",
+   "record_hash": "b976a1e6d9c5",
+   "count": 2,
+   "texts": [
+    "8 U.S.C. § 1101",
+    "INA § 101"
+   ]
+  }
+ ]
+}
