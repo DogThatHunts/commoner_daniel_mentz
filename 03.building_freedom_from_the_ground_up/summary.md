@@ -8,7 +8,7 @@
 | **Featured guest** | Daniel Mentz, Sacred Honor Educational Fellowship |
 | **Host** | Clint Griess, Commoner Law Group |
 | **Other voices** | Audience members Clayton, Sarah, Audrey and Tamara (first names only, as given on the call) |
-| **Format** | Open conversation on solutions, with a short excerpt of Griess's own "Juries" presentation. No Mentz slide deck. |
+| **Format** | Open conversation on solutions, with a short excerpt of Griess's own "[Juries](https://www.youtube.com/watch?v=OPyh1dNpT44)" presentation. No Mentz slide deck. |
 | **Queue row ID** | `3574e0d1-b72a-4dfc-92b5-69cb3590491a` |
 | **Collateral** | [Full transcript](collateral/transcript.md) · [video metadata](collateral/video-metadata.json) · [slide index](slides/slides-index.md) |
 
@@ -69,7 +69,7 @@ After three hours on "fractures" in American society, the segment turns to **wha
 ## 5. Clayton: "stay and fix" through local politics [\[27:15–42:50\]](https://www.youtube.com/watch?v=POZfdI0f4TU&t=1627s)
 
 Clayton (81, California; had vocal-cord cancer, speaks with difficulty) offers a very different map:
-- Recommends Jeffrey Rogers Hummel's book on the Civil War (he gives the title as *Freeing the Slaves While Enslaving Free Men*), "the end of the First Republic," with a "Second Republic" ending with FDR and the Depression, then a security-state turn after 9/11 ("continuity of government," "quasi martial law").
+- Recommends [Jeffrey Rogers Hummel's book on the Civil War](https://www.amazon.com/dp/0812698436) (he gives the title as *Freeing the Slaves While Enslaving Free Men*), "the end of the First Republic," with a "Second Republic" ending with FDR and the Depression, then a security-state turn after 9/11 ("continuity of government," "quasi martial law").
 - Calls out recent surrender of sovereignty "to the IDF and the globalists" via the latest NDAA, the surveillance state (Palantir, data centers as "surveillance centers"), and a "digital prison."
 - **Localism and the Brown Act.** California's open-meetings law lets citizens oppose measures at every city council and county government. He used it successfully against local developers and the Park Service, but could not rally Bay Area public-health policy opposition during COVID.
 - **Remedy:** build "committees of liberty" from the ground up; address "wealth disparity" produced by central-bank bailouts and crony capitalism (he cites meme coins, Mar-a-Lago fees, and the treatment of a House member); do teach-ins about the central bank and militarism; and form a **third party** (not the Republicans or Democrats).
@@ -129,7 +129,7 @@ His main objection to exit-and-build communities is that they "**overlook govern
 
 ## 8. Griess's "Juries" excerpt [\[1:01:00–1:11:00\]](https://www.youtube.com/watch?v=POZfdI0f4TU&t=3652s)
 
-Griess plays a segment of his own special presentation, *Juries: The Missing Foundation of Self-Government* (full version on Commoner's channels).
+Griess plays a segment of his own special presentation, *Juries: The Missing Foundation of Self-Government*. [A Commoner Law Group video](https://www.youtube.com/watch?v=OPyh1dNpT44) (52 minutes) opens with the same title slide.
 
 ![Juries title slide](slides/slide-10_01-01-29.jpg)
 *Slide 10 [\[1:01:29\]](https://www.youtube.com/watch?v=POZfdI0f4TU&t=3681s): "Juries: The Missing Foundation of Self-Government."*
@@ -178,11 +178,11 @@ Griess plays a segment of his own special presentation, *Juries: The Missing Fou
 
 **Audrey (retired military; former trucking business owner) [\[1:21:35–1:33:00\]](https://www.youtube.com/watch?v=POZfdI0f4TU&t=4887s).** Asks beginner questions after four years of learning:
 - She sent state-assembly "status" paperwork and received IRS letters. She wonders whether status papers were "an affront" and notes the IRS still treats her as a citizen.
-- **Notice of liability.** Mentz says that is "not something we directly do inside the fellowship," but that allies at In Power Movement (Cal Washington, inpowermovement.org) do it and "we know for a fact that it works." He distinguishes it from equity, "equity is more of a defense, the notice of liability is more of an offense," and says it requires no status correction. He mentions a "bloodline royalty" stepping down after notices, which he does not detail.
+- **Notice of liability.** Mentz says that is "not something we directly do inside the fellowship," but that allies at In Power Movement (Cal Washington, [inpowermovement.org](https://www.inpowermovement.org)) do it and "we know for a fact that it works." He distinguishes it from equity, "equity is more of a defense, the notice of liability is more of an offense," and says it requires no status correction. He mentions a "bloodline royalty" stepping down after notices, which he does not detail.
 - **Is a parallel system like Sharia law?** Mentz: "not technically," because Sharia as a government system "is imposed upon the whole land," while each self-governing community here has its own model and trades with others "for mutual aid and benefit." He names the overarching term **agorism**: "a true free market without any kind of centralized oversight."
 
 **Tamara [\[1:33:00–1:42:30\]](https://www.youtube.com/watch?v=POZfdI0f4TU&t=5572s).**
-- Corrects military status with **DD Form 2168** (she says it exits "forever" military obligations).
+- Corrects military status with **[DD Form 2168](https://www.esd.whs.mil/Directives/forms/dd2000_2499/DD2168/)** (she says it exits "forever" military obligations).
 - Asks whether the fellowship has coordinated with the other status groups ("status correction palooza"), noting the commercial incentives and the confusion. Mentz says he has **not** reached out to American State National or American National groups. He says people who have come from them to the Fellowship "with severe problems" and that "all I've seen… is just more trouble than actual remedy." The Fellowship's **citizenship evidence affidavit** has been used since 2007, is "strong enough… on every level of government from the federal to military to state, county, city," and "opts you out of income tax without many issues, even state income tax."
 - She describes turning six credit-card accounts into trusts and says all are "in default," which she expects to be tested in court.
 - On infiltrating local government: Mentz says infiltration will not work ("how easily they manipulate and basically blackmail people") and recommends **Daniel Mercury**, a former California candidate. He does say "we've gotten **sheriffs** on board… that's how we can flip a county," and that several counties "have flipped basically into common law." He adds that some officials may be "MK Ultra"-captured without knowing it.
@@ -202,8 +202,8 @@ These are observations for a public reader, not rebuttals.
 1. **"Original [13th Amendment](https://constitution.congress.gov/constitution/amendment-13/)" (Titles of Nobility Amendment).** The 1810 proposed amendment would have stripped citizenship from those accepting foreign titles. It is widely held *not* to have been ratified, and nothing in its text refers to attorneys. The claim in the talk (properly ratified, bars lawyers from office) is contested and should be checked against primary sources.
 2. **Etymology of "government."** *Gubernare* ("to steer, to govern") comes from Greek *kybernan*, and *-ment* is a noun suffix (from Latin *-mentum*, "result of"), not *mens* ("mind"). The "mind control" derivation is a popular claim, not the standard etymology.
 3. **Legal statements by the host and guests** (D.C. incorporated in 1871, "[28 USC 3002](https://www.law.cornell.edu/uscode/text/28/3002)," the [14th Amendment](https://constitution.congress.gov/constitution/amendment-14/) as federal-citizenship "slavery," local governments as corporations on Dun & Bradstreet) are repeated from interview 01. See the closing "Claims worth checking" section of that summary for notes. For example, [§ 3002](https://www.law.cornell.edu/uscode/text/28/3002)'s definitions apply "as used in this chapter."
-4. **DD Form 2168.** A guest says this form "corrects your status with the military" and exits the "forever" obligation. The Department of Defense forms index (esd.whs.mil) lists DD 2168 as "Application for Discharge of Member or Survivor of Member of Group Certified to Have Performed Active Duty with the Armed Forces of the U.S." (a form for certain civilian groups), not a general status-correction or separation form. Confirm what the form is for before relying on it.
-5. **Hummel's book.** Clayton's wording for the title is approximate. The author's book is generally cited as *Emancipating Slaves, Enslaving Free Men*.
+4. **[DD Form 2168](https://www.esd.whs.mil/Directives/forms/dd2000_2499/DD2168/).** A guest says this form "corrects your status with the military" and exits the "forever" obligation. The Department of Defense forms index (esd.whs.mil) lists DD 2168 as "Application for Discharge of Member or Survivor of Member of Group Certified to Have Performed Active Duty with the Armed Forces of the U.S." (a form for certain civilian groups), not a general status-correction or separation form. Confirm what the form is for before relying on it.
+5. **Hummel's book.** Clayton's wording for the title is approximate. The author's book is generally cited as *[Emancipating Slaves, Enslaving Free Men](https://www.amazon.com/dp/0812698436)* (the Open Court second edition is the Amazon listing).
 6. **Voting machines and third parties.** Mentz's claim that a third party "is never going to materialize" is an opinion about election integrity that the call does not support with evidence. The NDAA, Palantir and "IDF" statements by Clayton are also assertions without sources on the call.
 7. **Outcome claims.** Counties "flipped into common law," sheriffs on board, notices of liability producing resignations, and the status affidavit stopping state income tax "without many issues" are anecdotal and uncited.
 8. **Promotion.** Exit & Build 6 (5–8 November 2026, Texas), the Fellowship's courses and Griess's other programs are mentioned throughout. The video description links to the paid National Status & Passport course page, and Mentz appears as a featured guest of the event.

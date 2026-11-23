@@ -33,7 +33,7 @@ Throughout, Mentz stresses there is "no silver bullet," that outcomes vary by of
 ## 2. Host's framing [\[00:00–08:50\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=0s)
 
 - Griess opens with the right to travel as "a God-given right to go from place to place without asking the permission of the government," and traffic enforcement as "a revenue generating scheme."
-- He recommends Commoner's video "The Secret Financials of the Justice System." Its claim, as he summarises it, is that a court file number is converted into a financial instrument traded on markets and that "we Americans have been pledged as security for the national debt."
+- He recommends Commoner's video "[The Secret Financials of the Justice System](https://www.youtube.com/watch?v=P_c5BJq3EeE)" (posted by Commoner Law Group as "The Secret Financials Underlying Our Justice System with Todd Duell"). Its claim, as he summarises it, is that a court file number is converted into a financial instrument traded on markets and that "we Americans have been pledged as security for the national debt."
 - His point: "what we need to learn before even the law is accounting."
 - He asks audience members to share first-hand stories (tickets sent back as an "offer to contract," courtroom challenges, results) and introduces Mentz, who is returning after the full presentation in interview 01.
 
@@ -193,7 +193,7 @@ These are observations for a public reader, not rebuttals.
 
 1. **Roadside script.** The "custodial interrogation / Miranda" questions rely on the idea that an officer must release you if he won't read a Miranda warning. U.S. case law (e.g. *[Berkemer v. McCarty](https://www.law.cornell.edu/supremecourt/text/468/420)*) generally treats an ordinary traffic stop as non-custodial, so no Miranda warning is required. Whether the script "usually ends right here" rests on anecdote, and the speaker himself notes officers write tickets regardless.
 2. ***[Erie Railroad v. Tompkins](https://supreme.justia.com/cases/federal/us/304/64/)* (1938)** is described as collapsing all forms of law into a commercial/admiralty system. The decision concerns which substantive law federal courts apply in diversity cases. The reading here is the speaker's.
-3. **Case files as traded securities, "90 times" case value, four standard bonds.** These are asserted without citations. The "Secret Financials" video is recommended as the source.
+3. **Case files as traded securities, "90 times" case value, four standard bonds.** These are asserted without citations. The "[Secret Financials](https://www.youtube.com/watch?v=P_c5BJq3EeE)" video is recommended as the source.
 4. **"Do not detain" code and the "administrative file."** The speaker acknowledges "we obviously don't have access to these records." Evidence offered is a sheriff on video (not shown in this recording) and member anecdotes.
 5. **Certified mail as "received and filed."** A claim about how filings work. Court filing rules vary by court and by what is mailed where, and Faye's experience (returned mail) was the opposite.
 6. **Dismissals "poof."** The statement that discharging the "financial instrument" removes the charge and the public record is a claim about outcomes. The talk includes no data on how often it succeeds, and Irv's account in the same call shows a failure of a different approach.
