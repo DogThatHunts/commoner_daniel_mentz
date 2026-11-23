@@ -32,8 +32,9 @@ Running log of progress in this project. Newest entries on top. Read [POLICIES.m
 ### Next up
 **Nothing is blocking.** Both repos (`commoner_daniel_mentz` and `_citation-register`) are clean and pushed.
 1. **`.md` links on GitHub Pages (watch only).** Pages serves `transcript.md` and `slides-index.md` as `text/markdown`, so a browser may download them instead of showing them. The user says it is fine so far (2026-11-22); only act if it becomes a problem (render them as HTML, or link to the github.com view).
-2. **Citation process, remaining steps (plan file above):** C per-document manifest, D `triage.py` in the register, later `cite refresh`; register categories `state_statutes` / `dd_forms` / `court_rules` when the first verified record exists (Ralph M. Brown Act, DD Form 2168 are waiting). No Mentz work is blocked on these.
-3. **Possible additions:** `04.` and later interviews in the same layout (follow the recipe below); a tile for this project on `../../_index_hub/index.html` (separate repo).
+2. **Next revision: remove the "Project policies" link** from `index.html` (line 35, `<a href="POLICIES.md">Project policies</a>`; user, 2026-11-22). The `README.md` line 20 pointer to `POLICIES.md` is a separate item: leave it unless the user says otherwise. Not done yet; do it with the next change to the site.
+3. **Citation process, remaining steps (plan file above):** C per-document manifest, D `triage.py` in the register, later `cite refresh`; register categories `state_statutes` / `dd_forms` / `court_rules` when the first verified record exists (Ralph M. Brown Act, DD Form 2168 are waiting). No Mentz work is blocked on these.
+4. **Possible additions:** `04.` and later interviews in the same layout (follow the recipe below); a tile for this project on `../../_index_hub/index.html` (separate repo).
 
 ### Parked (user, 2026-11-22; do not work on these until the user raises them)
 - **Request for originals.** A request to Clint Griess (Commoner Law Group) and Daniel Mentz (Sacred Honor) for the slide decks and any higher-resolution recordings was drafted; the user will send it. It also asks whether they are comfortable with their slides shown publicly and whether they want a credit line. The text is not in the repo (a personal message). If files arrive, replace the slide JPEGs under the same filenames and rebuild the HTML.
