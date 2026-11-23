@@ -18,7 +18,7 @@ Standing rules for this project. Read at the start of each session. Add a new nu
 
 **P4. Audience members are named by first name only,** as given on the call (working convention). Names mangled by auto-transcription are corrected in summaries and left as-is in `transcript.md`, which stays verbatim.
 
-**P5. Titles come from Column D of the Queue sheet** (user-set, 2026-11-22). When the sheet is reachable, use the Column D title for each summary. Currently the titles come from `interview.md`, which was copied from the sheet.
+**P5. Titles come from Column D of the Queue sheet** (user-set, 2026-11-22). Use the title already in each folder's `interview.md`, which is copied from the sheet; the user dropped the idea of re-checking it against Column D (2026-11-22).
 
 **P12. Citations are linked from the shared register** (working convention, adopted 2026-11-22 with the user's approval). Run the register's own linker (`transcription-agent/publisher/citations.py` with `_citation-register/register.json`) on each `summary.md`. Review the diff before applying: remove any false positive by hand, and reword self-references such as "Section 11" so the linker cannot read them as statutes. Resolve every miss automatically first (the register's resolver, CourtListener citation lookup by reporter cite, and pages opened in Chrome for sites that block scripts), then write the result to `_citation-register/pending/daniel_mentz_<date>.json`. The user reviews and merges. Never merge into `register.json` from here, and never invent a URL.
 
