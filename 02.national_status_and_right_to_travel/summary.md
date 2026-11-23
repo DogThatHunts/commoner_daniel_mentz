@@ -11,6 +11,8 @@
 | **Queue row ID** | `f6a743f9-8750-46a0-a76f-16db47bda42a` |
 | **Collateral** | [Full transcript](collateral/transcript.md) · [video metadata](collateral/video-metadata.json) · [slide index](slides/slides-index.md) |
 
+Every timestamp is a link that opens the video about 8 seconds before the stated time, so you have a moment to get ready.
+
 > **Reader's note.** This summarises what is said on the call. The legal claims are the speakers' own and were not verified here. They are mostly practical claims about traffic stops, court procedure and financial instruments. The closing "Claims worth checking" section lists points to check before relying on any of them. Nothing here is legal advice.
 
 ---
@@ -28,7 +30,7 @@ Throughout, Mentz stresses there is "no silver bullet," that outcomes vary by of
 
 ---
 
-## 2. Host's framing [00:00–08:50]
+## 2. Host's framing [\[00:00–08:50\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=0s)
 
 - Griess opens with the right to travel as "a God-given right to go from place to place without asking the permission of the government," and traffic enforcement as "a revenue generating scheme."
 - He recommends Commoner's video "The Secret Financials of the Justice System." Its claim, as he summarises it, is that a court file number is converted into a financial instrument traded on markets and that "we Americans have been pledged as security for the national debt."
@@ -37,7 +39,7 @@ Throughout, Mentz stresses there is "no silver bullet," that outcomes vary by of
 
 ---
 
-## 3. Mentz's opening: choices, courts and commercial instruments [08:52–17:45]
+## 3. Mentz's opening: choices, courts and commercial instruments [\[08:52–17:45\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=524s)
 
 **"Yes and."** Asked whether a national's life differs on the road, Mentz says the answer to each question is "a yes and," because national status "gives you the freedom of choice." Nationals variously:
 - keep a driver's licence, for work or other reasons,
@@ -59,16 +61,16 @@ Throughout, Mentz stresses there is "no silver bullet," that outcomes vary by of
 
 ---
 
-## 4. License versus liberty [17:46–22:00]
+## 4. License versus liberty [\[17:46–22:00\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=1058s)
 
 ![Black's Law Dictionary, 6th ed.: liberty/license entries](slides/slide-01_00-20-50.jpg)
-*Slide 1 [20:50]: [Black's Law Dictionary](https://thelawdictionary.org/), 6th edition (PDF), the entries for liberty and license, shared by Mentz.*
+*Slide 1 [\[20:50\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=1242s): [Black's Law Dictionary](https://thelawdictionary.org/), 6th edition (PDF), the entries for liberty and license, shared by Mentz.*
 
 ![Highlighted definition of liberty](slides/slide-02_00-21-33.jpg)
-*Slide 2 [21:33]: The "Liberty" definition highlighted ("freedom from restraint…").*
+*Slide 2 [\[21:33\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=1285s): The "Liberty" definition highlighted ("freedom from restraint…").*
 
 ![License entry](slides/slide-03_00-21-52.jpg)
-*Slide 3 [21:52]: The "License" entry and the neighbouring pages.*
+*Slide 3 [\[21:52\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=1304s): The "License" entry and the neighbouring pages.*
 
 - A **license**, per Black's, is "the ability to do something that would otherwise be illegal."
 - The Constitution "doesn't say anything about needing a license or permits." Almost every state supreme court has issued right-to-travel decisions. Pre-Civil War, "if you were a private individual, a private state citizen, then there was no license… you didn't have to ask permission."
@@ -79,7 +81,7 @@ Throughout, Mentz stresses there is "no silver bullet," that outcomes vary by of
 
 ---
 
-## 5. Making a licence more private [22:43–32:00]
+## 5. Making a licence more private [\[22:43–32:00\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=1355s)
 
 Griess asks what a licence-renewal notice looks like to a national. Mentz says some people need a licence for their job, so "there are ways you can make your driver's license a lot more private and reserve your rights on it." He describes what **he tested himself** (the fellowship brings nothing forward "unless we actually test it") and adds the standard disclaimer that this is information and entertainment only.
 
@@ -96,10 +98,10 @@ An audience member mentions signing below the signature "by agent" or with a UCC
 
 ---
 
-## 6. The traffic stop "with honor" [33:00–48:00]
+## 6. The traffic stop "with honor" [\[33:00–48:00\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=1972s)
 
 ![Handling a Traffic Stop with Honor](slides/slide-04_00-37-20.jpg)
-*Slide 4 [37:20]: Mentz's one-page script, "Handling a Traffic Stop with Honor."*
+*Slide 4 [\[37:20\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=2232s): Mentz's one-page script, "Handling a Traffic Stop with Honor."*
 
 **Posture.**
 - "Having a national status and passport is **not a license to be an a-hole**." He does not want people to become nationals to speed, ignore safety, or race.
@@ -110,7 +112,7 @@ An audience member mentions signing below the signature "by agent" or with a UCC
 **The script (all questions, no statements; "equity: a duty to inquire"):**
 
 ![Script continued](slides/slide-05_00-43-44.jpg)
-*Slide 5 [43:44]: The same page scrolled to its end, with the Miranda exchange.*
+*Slide 5 [\[43:44\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=2616s): The same page scrolled to its end, with the Miranda exchange.*
 
 | Step | Say (as questions) |
 |---|---|
@@ -133,41 +135,41 @@ Mentz says this "usually ends right here," while acknowledging "bad apples" who 
 
 ---
 
-## 7. Role-play and listener experiences [48:10–1:09:00]
+## 7. Role-play and listener experiences [\[48:10–1:09:00\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=2882s)
 
-**Role-play [49:47–55:23].** An audience member (Casey) plays the officer (registration-tag stop). In the exchange:
+**Role-play [\[49:47–55:23\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=2979s).** An audience member (Casey) plays the officer (registration-tag stop). In the exchange:
 - The "officer" ignores the questions, says he needs "that number from the DMV" and threatens arrest.
 - Mentz asks whether this is a custodial interrogation, asks for Miranda, and hands over the passport card. The "officer" says it has no number, and Mentz asks him to run it by name and birth date.
 - Mentz explains the ideal: the system shows "**do not detain**." He cites a video of a sheriff confirming that code and says some officers, knowing what will appear, don't run the card and write the ticket anyway: "it's such a dynamic wild west."
 
-**Casey's real stop [55:23–57:45].** A California Highway Patrol officer needed "that number," ultimately accepting an old registration, which Casey then used to beat the ticket. Mentz: the licence number is the individual contract, so "jurisdiction is there"; without it the officer's case may be harder.
+**Casey's real stop [\[55:23–57:45\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=3315s).** A California Highway Patrol officer needed "that number," ultimately accepting an old registration, which Casey then used to beat the ticket. Mentz: the licence number is the individual contract, so "jurisdiction is there"; without it the officer's case may be harder.
 
-**Tamara (Virginia) [57:45–69:45].**
+**Tamara (Virginia) [\[57:45–69:45\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=3457s).**
 - Explains the passport **card** (domestic use, requested on the same application as the book).
 - Holds an "American state national" credential and a Virginia licence marked "federal limits apply." Mentz says he can't speak to that method: "we go the route of the official passport attaching an affidavit," which produces credentials "encoded with this do not detain code." Law enforcement "only see a code that tells them what to do or not to do with you."
 - He says what is in the **administrative file** at the State Department is "the highest and best evidence" of standing. That is the first step, the "citizenship evidence affidavit."
 - She shows a **photo-ticket** from Hampton, Virginia (payments directed to Washington State, hearing request to Arizona) as proof of a "foreign corporation" and says she returned it in red ink: "no contract, no jurisdiction, unjust enrichment, special appearance," with "in person" struck through and her signature qualified as "grantor… with all rights."
 
 ![Tamara's ticket and envelope](slides/slide-06_01-05-43.jpg)
-*Slide 6 [1:05:43]: The photo-enforcement notice and her annotated reply.*
+*Slide 6 [\[1:05:43\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=3935s): The photo-enforcement notice and her annotated reply.*
 
 ---
 
-## 8. Hard cases from the audience [1:09:00–1:25:00]
+## 8. Hard cases from the audience [\[1:09:00–1:25:00\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=4132s)
 
-**Faye (Texas) [1:09:45–1:19:00].** Arrested within seven minutes after complying with an order to get out (dog in the car). The sheriff read her status paperwork and released her. A second county threatens a warrant if she doesn't plead by 13 May, and courts are returning mail sent to P.O. boxes.
+**Faye (Texas) [\[1:09:45–1:19:00\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=4177s).** Arrested within seven minutes after complying with an order to get out (dog in the car). The sheriff read her status paperwork and released her. A second county threatens a warrant if she doesn't plead by 13 May, and courts are returning mail sent to P.O. boxes.
 - Mentz's advice: **certified mail** is, by postal codes, "considered to be received and… filed" even at a PO box. Put the **case number on the outside of the envelope** so it is routed to the right clerk. "You don't have to serve them," because "you serve summons" and an individual can't serve a summons on a court.
 - He says the USPS can be treated as "a court of record" for chain of custody.
 
-**Arlen (Australia): why do police ask you to step out?** [1:18:34]. "Now you have abandoned your property… easier to seize it." One untested idea he has heard: ask "is this a request or an order?" His firm advice: if it escalates, "comply and say, *I will now comply with your demands because I'm in fear of my life. I am under duress.*" "**Do not argue with the cops. Do not try to educate them on the law.** … that makes you belligerent and aggressive and you will be treated as such." He recalls someone who was shot for arguing and says the paper can be handled "in the comfort and safety of your home," "even if you have to use equity."
+**Arlen (Australia): why do police ask you to step out?** [\[1:18:34\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=4706s). "Now you have abandoned your property… easier to seize it." One untested idea he has heard: ask "is this a request or an order?" His firm advice: if it escalates, "comply and say, *I will now comply with your demands because I'm in fear of my life. I am under duress.*" "**Do not argue with the cops. Do not try to educate them on the law.** … that makes you belligerent and aggressive and you will be treated as such." He recalls someone who was shot for arguing and says the paper can be handled "in the comfort and safety of your home," "even if you have to use equity."
 
-**Irv (Delaware) [1:21:00–1:33:00].** Three years earlier he put his window down two inches and said "I plead the Fifth and [Sixth Amendment](https://constitution.congress.gov/constitution/amendment-6/), I want to speak to your supervisor." The officer shouted, broke the window, pointed a taser, and punched him twice. Charges were resisting arrest, failing to identify, and using an electronic device. The commissioner entered a not-guilty plea on his behalf. At the latest hearing "denied, denied, denied" on all motions.
+**Irv (Delaware) [\[1:21:00–1:33:00\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=4852s).** Three years earlier he put his window down two inches and said "I plead the Fifth and [Sixth Amendment](https://constitution.congress.gov/constitution/amendment-6/), I want to speak to your supervisor." The officer shouted, broke the window, pointed a taser, and punched him twice. Charges were resisting arrest, failing to identify, and using an electronic device. The commissioner entered a not-guilty plea on his behalf. At the latest hearing "denied, denied, denied" on all motions.
 - Mentz: "you're still arguing. If you put in motions, you're arguing. Equity doesn't argue. We settle and close the books." He says he has seen members facing "10-year felony charges" resolved by equity. He suggests Irv would need to "back out" of positions already taken, which the equity course covers.
 - Griess adds that the lesson for him was to look at the system "purely from a financial point of view" and that the greatest benefit he got from the equity course was peace.
 
 ---
 
-## 9. Equity as the "defense" [1:28:00–1:40:00]
+## 9. Equity as the "defense" [\[1:28:00–1:40:00\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=5272s)
 
 - Everything, Mentz says, "is bankruptcy banking since 1933." People are "the surety for the bankruptcy" ("a liability… [but] also a big piece of power because we're the gold we're backing the whole system with our signatures").
 - Equity: "We settle and close the accounting that they're leveraging from our name." This "closes and settles everything. All the bonds, all the accounts, all the securitized instruments."
@@ -177,7 +179,7 @@ Mentz says this "usually ends right here," while acknowledging "bad apples" who 
 
 ---
 
-## 10. Closing [1:40:00–1:43:44]
+## 10. Closing [\[1:40:00–1:43:44\]](https://www.youtube.com/watch?v=_-LTnN5BeBs&t=5992s)
 
 - Griess invites people toward "equanimity, peace of mind": "you don't have to be argumentative… pugilistic… adversarial."
 - Mentz's last words: "there's always a remedy." He names national status, equity, the **trifecta** (church, trust, PMA), and **allodial land** ("how to take back your land and disencumber it"), all in the fellowship's free complimentary membership.

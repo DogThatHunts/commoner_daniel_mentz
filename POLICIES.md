@@ -30,6 +30,8 @@ Standing rules for this project. Read at the start of each session. Add a new nu
 
 **P8. `summary.md` is the source of truth** (working convention). `summary.html` is generated from it with pandoc, and `index.html` and `README.md` are updated whenever an interview is added or changes status.
 
+**P13. Timestamps link to the video, 8 seconds early** (user-set, 2026-11-22: "5 to 10 sec before the actual time stated so the listener can get ready"). Every video timestamp in a summary (slide captions, section headings and ranges such as `[16:55–32:00]`, the first column of Q&A tables) and in each `slides-index.md` is a link to `https://www.youtube.com/watch?v=<id>&t=<seconds>s`, where seconds is the stated time minus 8. Run `tools/link_timestamps.py` after writing or editing a summary (it is idempotent and only links unlinked timestamps). Clock times of day (such as a schedule's "3:00 pm PT") are not video timestamps and stay plain.
+
 ## Publishing
 
 **P9. Repo visibility** (user-set). Private until 2026-11-22, when the user made it **public** and enabled GitHub Pages. Do not change visibility without being asked. The repo scope is this folder only.
