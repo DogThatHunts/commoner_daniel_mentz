@@ -129,7 +129,7 @@ His main objection to exit-and-build communities is that they "**overlook govern
 
 ## 8. Griess's "Juries" excerpt [\[1:01:00–1:11:00\]](https://www.youtube.com/watch?v=POZfdI0f4TU&t=3652s)
 
-Griess plays a segment of his own special presentation, *Juries: The Missing Foundation of Self-Government*. [A Commoner Law Group video](https://www.youtube.com/watch?v=OPyh1dNpT44) (52 minutes) opens with the same title slide.
+Griess plays a segment of his own special presentation, *[Juries: The Missing Foundation of Self-Government](https://www.youtube.com/watch?v=OPyh1dNpT44)*. The linked Commoner Law Group video (52 minutes) opens with the same title slide.
 
 ![Juries title slide](slides/slide-10_01-01-29.jpg)
 *Slide 10 [\[1:01:29\]](https://www.youtube.com/watch?v=POZfdI0f4TU&t=3681s): "Juries: The Missing Foundation of Self-Government."*

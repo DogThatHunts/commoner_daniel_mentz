@@ -3,7 +3,7 @@
  "file": "summary.md",
  "project": "daniel_mentz",
  "generated": "2026-11-23",
- "register_version": "e4ee567",
+ "register_version": "52741e0+uncommitted",
  "doc_sha256": "1636e86bbdf2161c9bb070138dfcf77b33d0b167ce2496c4c2df939970d2491e",
  "links": [
   {
@@ -65,6 +65,17 @@
    "count": 2,
    "texts": [
     "Black's Law Dictionary"
+   ]
+  },
+  {
+   "record": "sec.the-secret-financials-underlying-our-justice-system-with-todd-duell",
+   "category": "secondary_authorities",
+   "url": "https://www.youtube.com/watch?v=P_c5BJq3EeE",
+   "record_hash": "8a81a26cf054",
+   "count": 2,
+   "texts": [
+    "The Secret Financials of the Justice System",
+    "Secret Financials"
    ]
   }
  ]

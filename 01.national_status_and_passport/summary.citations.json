@@ -3,7 +3,7 @@
  "file": "summary.md",
  "project": "daniel_mentz",
  "generated": "2026-11-23",
- "register_version": "bff6552",
+ "register_version": "52741e0+uncommitted",
  "doc_sha256": "2a24abf21f54e881efceed28c2a70728b39c0fdc7889b331bfab9acc63259522",
  "links": [
   {
@@ -178,6 +178,27 @@
    "count": 1,
    "texts": [
     "Black's Law Dictionary"
+   ]
+  },
+  {
+   "record": "sec.certificates-of-non-citizen-nationality",
+   "category": "secondary_authorities",
+   "url": "https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/us-citizenship/Certificates-Non-Citizen-Nationality.html",
+   "record_hash": "7b3b7334f239",
+   "count": 1,
+   "texts": [
+    "travel.state.gov"
+   ]
+  },
+  {
+   "record": "sec.passport-forms-ds-11-and-ds-82",
+   "category": "secondary_authorities",
+   "url": "https://travel.state.gov/en/passports/apply/help/forms.html",
+   "record_hash": "a82b8ad649e1",
+   "count": 2,
+   "texts": [
+    "DS-11",
+    "DS-82"
    ]
   },
   {

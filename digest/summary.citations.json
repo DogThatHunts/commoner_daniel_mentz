@@ -3,8 +3,8 @@
  "file": "summary.md",
  "project": "daniel_mentz",
  "generated": "2026-11-23",
- "register_version": "bff6552",
- "doc_sha256": "d8b57b19fc2b8b4e877acf184573c38b92b0da2ecc86fe09a8683ed858fb49a8",
+ "register_version": "52741e0+uncommitted",
+ "doc_sha256": "8916c125c1d97eb87f60170b8752c621b39f7c3cb55cba9187d4fe6d0eef6b6f",
  "links": [
   {
    "record": "act.emergency-banking-relief-act",
@@ -201,6 +201,67 @@
    ]
   },
   {
+   "record": "sec.dd-form-2168",
+   "category": "secondary_authorities",
+   "url": "https://www.esd.whs.mil/Directives/forms/dd2000_2499/DD2168/",
+   "record_hash": "54ecf7b986ff",
+   "count": 1,
+   "texts": [
+    "DD Form 2168"
+   ]
+  },
+  {
+   "record": "sec.emancipating-slaves-enslaving-free-men",
+   "category": "secondary_authorities",
+   "url": "https://www.amazon.com/dp/0812698436",
+   "record_hash": "28d519920ad5",
+   "count": 1,
+   "texts": [
+    "Jeffrey Rogers Hummel's book"
+   ]
+  },
+  {
+   "record": "sec.inpower",
+   "category": "secondary_authorities",
+   "url": "https://www.inpowermovement.org",
+   "record_hash": "191f77a1edcf",
+   "count": 1,
+   "texts": [
+    "In Power Movement's website"
+   ]
+  },
+  {
+   "record": "sec.juries-the-missing-foundation-of-self-government",
+   "category": "secondary_authorities",
+   "url": "https://www.youtube.com/watch?v=OPyh1dNpT44",
+   "record_hash": "9c142ad7fc8f",
+   "count": 1,
+   "texts": [
+    "Juries"
+   ]
+  },
+  {
+   "record": "sec.passport-forms-ds-11-and-ds-82",
+   "category": "secondary_authorities",
+   "url": "https://travel.state.gov/en/passports/apply/help/forms.html",
+   "record_hash": "a82b8ad649e1",
+   "count": 2,
+   "texts": [
+    "DS-11",
+    "DS-82"
+   ]
+  },
+  {
+   "record": "sec.ralph-m-brown-act",
+   "category": "secondary_authorities",
+   "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=54950.5",
+   "record_hash": "7edc291f3b0f",
+   "count": 1,
+   "texts": [
+    "Ralph M. Brown Act"
+   ]
+  },
+  {
    "record": "sec.the-second-founding-how-the-civil-war-and-reconstruction-remade-the-constitution",
    "category": "secondary_authorities",
    "url": "https://en.wikipedia.org/wiki/The_Second_Founding",
@@ -208,6 +269,16 @@
    "count": 1,
    "texts": [
     "The Second Founding"
+   ]
+  },
+  {
+   "record": "sec.the-secret-financials-underlying-our-justice-system-with-todd-duell",
+   "category": "secondary_authorities",
+   "url": "https://www.youtube.com/watch?v=P_c5BJq3EeE",
+   "record_hash": "8a81a26cf054",
+   "count": 1,
+   "texts": [
+    "The Secret Financials of the Justice System"
    ]
   },
   {
