@@ -3,7 +3,7 @@
  "file": "summary.md",
  "project": "daniel_mentz",
  "generated": "2026-11-23",
- "register_version": "52741e0+uncommitted",
+ "register_version": "923fb97+uncommitted",
  "doc_sha256": "8916c125c1d97eb87f60170b8752c621b39f7c3cb55cba9187d4fe6d0eef6b6f",
  "links": [
   {
@@ -24,6 +24,27 @@
    "count": 1,
    "texts": [
     "Organic Act of 1871"
+   ]
+  },
+  {
+   "record": "aform.dd-2168",
+   "category": "agency_forms",
+   "url": "https://www.esd.whs.mil/Directives/forms/dd2000_2499/DD2168/",
+   "record_hash": "05b294651c40",
+   "count": 1,
+   "texts": [
+    "DD Form 2168"
+   ]
+  },
+  {
+   "record": "aform.ds-11",
+   "category": "agency_forms",
+   "url": "https://travel.state.gov/en/passports/apply/help/forms.html",
+   "record_hash": "d48eb33e7c7d",
+   "count": 2,
+   "texts": [
+    "DS-11",
+    "DS-82"
    ]
   },
   {
@@ -201,16 +222,6 @@
    ]
   },
   {
-   "record": "sec.dd-form-2168",
-   "category": "secondary_authorities",
-   "url": "https://www.esd.whs.mil/Directives/forms/dd2000_2499/DD2168/",
-   "record_hash": "54ecf7b986ff",
-   "count": 1,
-   "texts": [
-    "DD Form 2168"
-   ]
-  },
-  {
    "record": "sec.emancipating-slaves-enslaving-free-men",
    "category": "secondary_authorities",
    "url": "https://www.amazon.com/dp/0812698436",
@@ -241,27 +252,6 @@
    ]
   },
   {
-   "record": "sec.passport-forms-ds-11-and-ds-82",
-   "category": "secondary_authorities",
-   "url": "https://travel.state.gov/en/passports/apply/help/forms.html",
-   "record_hash": "a82b8ad649e1",
-   "count": 2,
-   "texts": [
-    "DS-11",
-    "DS-82"
-   ]
-  },
-  {
-   "record": "sec.ralph-m-brown-act",
-   "category": "secondary_authorities",
-   "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=54950.5",
-   "record_hash": "7edc291f3b0f",
-   "count": 1,
-   "texts": [
-    "Ralph M. Brown Act"
-   ]
-  },
-  {
    "record": "sec.the-second-founding-how-the-civil-war-and-reconstruction-remade-the-constitution",
    "category": "secondary_authorities",
    "url": "https://en.wikipedia.org/wiki/The_Second_Founding",
@@ -279,6 +269,16 @@
    "count": 1,
    "texts": [
     "The Secret Financials of the Justice System"
+   ]
+  },
+  {
+   "record": "sstat.ca.ralph-m-brown-act",
+   "category": "state_statutes",
+   "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=54950.5",
+   "record_hash": "7edc291f3b0f",
+   "count": 1,
+   "texts": [
+    "Ralph M. Brown Act"
    ]
   },
   {

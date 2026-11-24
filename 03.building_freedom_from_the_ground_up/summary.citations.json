@@ -3,9 +3,19 @@
  "file": "summary.md",
  "project": "daniel_mentz",
  "generated": "2026-11-23",
- "register_version": "52741e0+uncommitted",
+ "register_version": "923fb97+uncommitted",
  "doc_sha256": "15f7df2f0e743fc411ca4d6837f827d989b3c118fee5c4bf603973f44da63646",
  "links": [
+  {
+   "record": "aform.dd-2168",
+   "category": "agency_forms",
+   "url": "https://www.esd.whs.mil/Directives/forms/dd2000_2499/DD2168/",
+   "record_hash": "05b294651c40",
+   "count": 2,
+   "texts": [
+    "DD Form 2168"
+   ]
+  },
   {
    "record": "const.amend.13",
    "category": "constitution",
@@ -24,16 +34,6 @@
    "count": 2,
    "texts": [
     "14th Amendment"
-   ]
-  },
-  {
-   "record": "sec.dd-form-2168",
-   "category": "secondary_authorities",
-   "url": "https://www.esd.whs.mil/Directives/forms/dd2000_2499/DD2168/",
-   "record_hash": "54ecf7b986ff",
-   "count": 2,
-   "texts": [
-    "DD Form 2168"
    ]
   },
   {
@@ -69,16 +69,6 @@
    ]
   },
   {
-   "record": "sec.ralph-m-brown-act",
-   "category": "secondary_authorities",
-   "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=54950.5",
-   "record_hash": "7edc291f3b0f",
-   "count": 1,
-   "texts": [
-    "Brown Act"
-   ]
-  },
-  {
    "record": "sec.the-second-founding-how-the-civil-war-and-reconstruction-remade-the-constitution",
    "category": "secondary_authorities",
    "url": "https://en.wikipedia.org/wiki/The_Second_Founding",
@@ -86,6 +76,16 @@
    "count": 1,
    "texts": [
     "The Second Founding"
+   ]
+  },
+  {
+   "record": "sstat.ca.ralph-m-brown-act",
+   "category": "state_statutes",
+   "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=54950.5",
+   "record_hash": "7edc291f3b0f",
+   "count": 1,
+   "texts": [
+    "Brown Act"
    ]
   },
   {

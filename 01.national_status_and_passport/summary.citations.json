@@ -3,7 +3,7 @@
  "file": "summary.md",
  "project": "daniel_mentz",
  "generated": "2026-11-23",
- "register_version": "52741e0+uncommitted",
+ "register_version": "923fb97+uncommitted",
  "doc_sha256": "2a24abf21f54e881efceed28c2a70728b39c0fdc7889b331bfab9acc63259522",
  "links": [
   {
@@ -34,6 +34,17 @@
    "count": 1,
    "texts": [
     "Organic Act of 1871"
+   ]
+  },
+  {
+   "record": "aform.ds-11",
+   "category": "agency_forms",
+   "url": "https://travel.state.gov/en/passports/apply/help/forms.html",
+   "record_hash": "d48eb33e7c7d",
+   "count": 2,
+   "texts": [
+    "DS-11",
+    "DS-82"
    ]
   },
   {
@@ -188,17 +199,6 @@
    "count": 1,
    "texts": [
     "travel.state.gov"
-   ]
-  },
-  {
-   "record": "sec.passport-forms-ds-11-and-ds-82",
-   "category": "secondary_authorities",
-   "url": "https://travel.state.gov/en/passports/apply/help/forms.html",
-   "record_hash": "a82b8ad649e1",
-   "count": 2,
-   "texts": [
-    "DS-11",
-    "DS-82"
    ]
   },
   {
