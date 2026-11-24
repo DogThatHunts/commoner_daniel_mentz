@@ -2,6 +2,9 @@
 
 Running log of progress in this project. Newest entries on top. Read [POLICIES.md](POLICIES.md) first each session, and add to it when the user states a new policy.
 
+## 2026-11-24: pointer
+The current work is the KL and Dave Champion citation review, not Mentz. Read `_citation-register/RESTART_2026-11-23.md` first. Its artifact is https://claude.ai/artifact/4JUdw7osfTD6Chyyj7cLhV. The Mentz proposals artifact (https://claude.ai/artifact/51ypHZY8sumu3XMLQ9fZxg) is done: all eight proposals were merged on 2026-11-23. No Mentz work is open.
+
 ## 2026-11-22: restart point (end of session 1)
 
 **State: three detailed, slide-illustrated summaries are published, all approved by the user.**
